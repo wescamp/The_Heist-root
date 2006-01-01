@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-01-01 16:48+0100\n"
+"POT-Creation-Date: 2006-01-01 19:26+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1394,32 +1394,96 @@ msgstr ""
 msgid "The End"
 msgstr ""
 
+#: ./The_Heist/scenarios/heist-siege.cfg:365 ./The_Heist/scenarios/heist-siege.cfg:371
+msgid " is dead!"
+msgstr ""
+
+#: ./The_Heist/scenarios/heist-siege.cfg:365
+msgid "What have I done?"
+msgstr ""
+
+#: ./The_Heist/scenarios/heist-siege.cfg:371
+msgid "You fool!"
+msgstr ""
+
+#: ./The_Heist/scenarios/heist-siege.cfg:387
+msgid " has been slain! I should have heeded my master's advice. I was foolish to think I could defeat two powerful armies."
+msgstr ""
+
+#: ./The_Heist/scenarios/heist-siege.cfg:477
+msgid "Be gone, foul serpent! Vogela, Sparisican!"
+msgstr ""
+
+#: ./The_Heist/scenarios/heist-siege.cfg:485
+msgid "King Theomund"
+msgstr ""
+
+#: ./The_Heist/scenarios/heist-siege.cfg:486
+msgid "Queen Edina"
+msgstr ""
+
+#: ./The_Heist/scenarios/heist-siege.cfg:487
+msgid "Horomir"
+msgstr ""
+
+#: ./The_Heist/scenarios/heist-siege.cfg:488
+msgid "Princess Leana"
+msgstr ""
+
+#: ./The_Heist/scenarios/heist-siege.cfg:489
+msgid "I am sorry, Leana. Rogan"
+msgstr ""
+
+#: ./The_Heist/scenarios/heist-siege.cfg:490
+msgid "My dearest friend"
+msgstr ""
+
+#: ./The_Heist/scenarios/heist-siege.cfg:491
+msgid "I am sorry, Leana. Your friend"
+msgstr ""
+
+#: ./The_Heist/scenarios/heist-siege.cfg:492
+msgid "Those poor children have lost their mother. She"
+msgstr ""
+
+#: ./The_Heist/scenarios/heist-siege.cfg:493
+msgid "Those poor children have lost their father. He"
+msgstr ""
+
+#: ./The_Heist/scenarios/heist-siege.cfg:494 ./The_Heist/scenarios/heist-siege.cfg:495 ./The_Heist/scenarios/heist-siege.cfg:496
+msgid "An innocent child"
+msgstr ""
+
+#: ./The_Heist/scenarios/heist-siege.cfg:505
+msgid "We cannot win this battle without Randalf's help."
+msgstr ""
+
+#: ./The_Heist/scenarios/heist-siege.cfg:519
+msgid "My heart tells me that Bill had some part to play yet, for good or ill. He should not have died here today."
+msgstr ""
+
+#: ./The_Heist/scenarios/heist-siege.cfg:555
+msgid "Grab the stone!"
+msgstr ""
+
+#: ./The_Heist/scenarios/heist-siege.cfg:560
+msgid "I have it!"
+msgstr ""
+
+#: ./The_Heist/scenarios/heist-siege.cfg:564
+msgid "Zara! Baringa! Echla!"
+msgstr ""
+
+#: ./The_Heist/scenarios/heist-siege.cfg:586
+msgid "The power of Kahandari is finally mine! Arachahl, Kahara!"
+msgstr ""
+
 #: ./The_Heist/units/Beheading_Knight.cfg:4
 msgid "Beheading Knight"
 msgstr ""
 
 #: ./The_Heist/units/Beheading_Knight.cfg:20
 msgid "A Grand Knight with an orc's head on his lance."
-msgstr ""
-
-#: ./The_Heist/units/Orcish_Grunt.cfg:25 ./The_Heist/units/Beheading_Knight.cfg:23 ./The_Heist/units/Swordsman_Guard.cfg:28
-msgid "sword"
-msgstr ""
-
-#: ./The_Heist/units/Orcish_Grunt.cfg:26 ./The_Heist/units/Beheading_Knight.cfg:25 ./The_Heist/units/Swordsman_Guard.cfg:29 ./The_Heist/units/Blood_Bat_Pup.cfg:35 ./The_Heist/units/Orcish_Archer.cfg:27
-msgid "blade"
-msgstr ""
-
-#: ./The_Heist/units/Beheading_Knight.cfg:40
-msgid "lance"
-msgstr ""
-
-#: ./The_Heist/units/Beheading_Knight.cfg:41 ./The_Heist/units/Orcish_Archer.cfg:43
-msgid "pierce"
-msgstr ""
-
-#: ./The_Heist/units/Beheading_Knight.cfg:42
-msgid "charge"
 msgstr ""
 
 #: ./The_Heist/units/Blonde_Kid.cfg:4
@@ -1430,28 +1494,12 @@ msgstr ""
 msgid "A kid with blonde hair."
 msgstr ""
 
-#: ./The_Heist/units/Blonde_Kid.cfg:24 ./The_Heist/units/Outlaw_Guillotine.cfg:22 ./The_Heist/units/Movable_Rock.cfg:34 ./The_Heist/units/Crate.cfg:22 ./The_Heist/units/Brunette_Kid.cfg:24 ./The_Heist/units/King_Guillotine.cfg:22 ./The_Heist/units/Redheaded_Kid.cfg:24
-msgid "bump"
-msgstr ""
-
-#: ./The_Heist/units/Blonde_Kid.cfg:27 ./The_Heist/units/Outlaw_Guillotine.cfg:25 ./The_Heist/units/Movable_Rock.cfg:37 ./The_Heist/units/Crate.cfg:25 ./The_Heist/units/Brunette_Kid.cfg:27 ./The_Heist/units/King_Guillotine.cfg:25 ./The_Heist/units/Redheaded_Kid.cfg:27 ./The_Heist/units/Outlaw_Queen2.cfg:57 ./The_Heist/units/Outlaw_Queen2.cfg:80 ./The_Heist/units/Greater_Mage.cfg:26 ./The_Heist/units/Greater_Mage.cfg:120
-msgid "impact"
-msgstr ""
-
 #: ./The_Heist/units/Blood_Bat_Pup.cfg:4
 msgid "Blood Bat Pup"
 msgstr ""
 
 #: ./The_Heist/units/Blood_Bat_Pup.cfg:18
 msgid "A smaller and weaker blood bat."
-msgstr ""
-
-#: ./The_Heist/units/Blood_Bat_Pup.cfg:34
-msgid "fangs"
-msgstr ""
-
-#: ./The_Heist/units/Blood_Bat_Pup.cfg:39
-msgid "drain"
 msgstr ""
 
 #: ./The_Heist/units/Brunette_Kid.cfg:4
@@ -1474,27 +1522,11 @@ msgstr ""
 msgid "Greater Mage"
 msgstr ""
 
-#: ./The_Heist/units/Greater_Mage.cfg:22 ./The_Heist/units/Greater_Mage.cfg:116
+#: ./The_Heist/units/Greater_Mage.cfg:22 ./The_Heist/units/Greater_Mage.cfg:118
 msgid "A Great Mage with poison attack."
 msgstr ""
 
-#: ./The_Heist/units/Outlaw_Queen2.cfg:56 ./The_Heist/units/Greater_Mage.cfg:25 ./The_Heist/units/Greater_Mage.cfg:119
-msgid "staff"
-msgstr ""
-
-#: ./The_Heist/units/Greater_Mage.cfg:46 ./The_Heist/units/Greater_Mage.cfg:140
-msgid "fireball"
-msgstr ""
-
-#: ./The_Heist/units/Orcish_Archer.cfg:73 ./The_Heist/units/Greater_Mage.cfg:47 ./The_Heist/units/Greater_Mage.cfg:141
-msgid "fire"
-msgstr ""
-
-#: ./The_Heist/units/Greater_Mage.cfg:49 ./The_Heist/units/Greater_Mage.cfg:143
-msgid "poison"
-msgstr ""
-
-#: ./The_Heist/units/Greater_Mage.cfg:98
+#: ./The_Heist/units/Greater_Mage.cfg:100
 msgid "female^Great Mage"
 msgstr ""
 
@@ -1530,14 +1562,6 @@ msgstr ""
 msgid "An Orcish Archer that can only move inside caves."
 msgstr ""
 
-#: ./The_Heist/units/Orcish_Archer.cfg:26
-msgid "dagger"
-msgstr ""
-
-#: ./The_Heist/units/Orcish_Archer.cfg:42 ./The_Heist/units/Orcish_Archer.cfg:72
-msgid "bow"
-msgstr ""
-
 #: ./The_Heist/units/Orcish_Grunt.cfg:4
 msgid "Cave Orcish Grunt"
 msgstr ""
@@ -1564,10 +1588,6 @@ msgstr ""
 
 #: ./The_Heist/units/Outlaw_Queen2.cfg:25
 msgid "An Outlaw Queen with a different hairdo."
-msgstr ""
-
-#: ./The_Heist/units/Outlaw_Queen2.cfg:79
-msgid "sling"
 msgstr ""
 
 #: ./The_Heist/units/Redheaded_Kid.cfg:4
