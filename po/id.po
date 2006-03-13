@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-01-04 21:54+0100\n"
+"POT-Creation-Date: 2006-03-13 13:51+0100\n"
 "PO-Revision-Date: 2006-01-04 21:54+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: The_Heist/scenarios/heist-03heist.cfg:5 The_Heist.cfg:8
+#: The_Heist.cfg:8 The_Heist/scenarios/heist-03heist.cfg:5
 msgid "The Heist"
 msgstr ""
 
@@ -248,8 +248,8 @@ msgstr ""
 msgid "Find the treasure"
 msgstr ""
 
-#: The_Heist/scenarios/heist-03heist.cfg:51
 #: The_Heist/scenarios/heist-11statues.cfg:1171
+#: The_Heist/scenarios/heist-03heist.cfg:51
 msgid "Turns run out"
 msgstr ""
 
@@ -257,16 +257,6 @@ msgstr ""
 msgid "Death of Ardella, Leana, or Rogan"
 msgstr ""
 
-#: The_Heist/scenarios/heist-15breakout.cfg:107
-#: The_Heist/scenarios/heist-15breakout.cfg:108
-#: The_Heist/scenarios/heist-15breakout.cfg:109
-#: The_Heist/scenarios/heist-15breakout.cfg:110
-#: The_Heist/scenarios/heist-15breakout.cfg:111
-#: The_Heist/scenarios/heist-15breakout.cfg:113
-#: The_Heist/scenarios/heist-15breakout.cfg:114
-#: The_Heist/scenarios/heist-15breakout.cfg:115
-#: The_Heist/scenarios/heist-15breakout.cfg:116
-#: The_Heist/scenarios/heist-15breakout.cfg:117
 #: The_Heist/scenarios/heist-03heist.cfg:77
 #: The_Heist/scenarios/heist-03heist.cfg:78
 #: The_Heist/scenarios/heist-03heist.cfg:79
@@ -277,6 +267,16 @@ msgstr ""
 #: The_Heist/scenarios/heist-03heist.cfg:85
 #: The_Heist/scenarios/heist-03heist.cfg:86
 #: The_Heist/scenarios/heist-03heist.cfg:87
+#: The_Heist/scenarios/heist-15breakout.cfg:107
+#: The_Heist/scenarios/heist-15breakout.cfg:108
+#: The_Heist/scenarios/heist-15breakout.cfg:109
+#: The_Heist/scenarios/heist-15breakout.cfg:110
+#: The_Heist/scenarios/heist-15breakout.cfg:111
+#: The_Heist/scenarios/heist-15breakout.cfg:113
+#: The_Heist/scenarios/heist-15breakout.cfg:114
+#: The_Heist/scenarios/heist-15breakout.cfg:115
+#: The_Heist/scenarios/heist-15breakout.cfg:116
+#: The_Heist/scenarios/heist-15breakout.cfg:117
 msgid "Gate"
 msgstr ""
 
@@ -417,8 +417,8 @@ msgstr ""
 msgid "Zilead, you and your men check the villages on that side."
 msgstr ""
 
-#: The_Heist/scenarios/heist-14siege1.cfg:161
 #: The_Heist/scenarios/heist-05town.cfg:208
+#: The_Heist/scenarios/heist-14siege1.cfg:161
 msgid "As you wish."
 msgstr ""
 
@@ -539,8 +539,8 @@ msgstr ""
 msgid "Death of Ardella, Leana or Rogan"
 msgstr ""
 
-#: The_Heist/scenarios/heist-08family.cfg:64
 #: The_Heist/scenarios/heist-06hideout.cfg:85
+#: The_Heist/scenarios/heist-08family.cfg:64
 msgid "Death of a family member"
 msgstr ""
 
@@ -669,13 +669,13 @@ msgstr ""
 msgid "We're right here, mommy!"
 msgstr ""
 
-#: The_Heist/scenarios/heist-08family.cfg:353
 #: The_Heist/scenarios/heist-06hideout.cfg:343
+#: The_Heist/scenarios/heist-08family.cfg:353
 msgid "Mommy!"
 msgstr ""
 
-#: The_Heist/scenarios/heist-08family.cfg:354
 #: The_Heist/scenarios/heist-06hideout.cfg:358
+#: The_Heist/scenarios/heist-08family.cfg:354
 msgid "Daddy!"
 msgstr ""
 
@@ -884,8 +884,8 @@ msgstr ""
 msgid "Randalf"
 msgstr ""
 
-#: The_Heist/scenarios/heist-12guillotine.cfg:191
 #: The_Heist/scenarios/heist-09labyrinth.cfg:451
+#: The_Heist/scenarios/heist-12guillotine.cfg:191
 msgid "Talika"
 msgstr ""
 
@@ -989,15 +989,15 @@ msgstr ""
 msgid "The Persuasion"
 msgstr ""
 
+#: The_Heist/scenarios/heist-10persuasion.cfg:54
 #: The_Heist/scenarios/heist-12guillotine.cfg:331
 #: The_Heist/scenarios/heist-12guillotine.cfg:392
-#: The_Heist/scenarios/heist-10persuasion.cfg:54
 msgid "Edina"
 msgstr ""
 
+#: The_Heist/scenarios/heist-10persuasion.cfg:55
 #: The_Heist/scenarios/heist-13informant.cfg:109
 #: The_Heist/scenarios/heist-13informant.cfg:148
-#: The_Heist/scenarios/heist-10persuasion.cfg:55
 msgid "Hadwin"
 msgstr ""
 
@@ -1410,8 +1410,8 @@ msgstr ""
 msgid "End of turns"
 msgstr ""
 
-#: The_Heist/scenarios/heist-14siege1.cfg:83
 #: The_Heist/scenarios/heist-16siege2.cfg:223
+#: The_Heist/scenarios/heist-14siege1.cfg:83
 msgid "Death of a leader."
 msgstr ""
 
@@ -1588,9 +1588,9 @@ msgstr ""
 msgid "Anna!"
 msgstr ""
 
-#: The_Heist/scenarios/heist-15breakout.cfg:525
-#: The_Heist/scenarios/heist-16siege2.cfg:86
 #: The_Heist/scenarios/heist-17end.cfg:45
+#: The_Heist/scenarios/heist-16siege2.cfg:86
+#: The_Heist/scenarios/heist-15breakout.cfg:525
 msgid "Gerald"
 msgstr ""
 
