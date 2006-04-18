@@ -14,69 +14,88 @@ msgstr ""
 "X-Generator: KBabel 1.11.1\n"
 
 #: The_Heist.cfg:8 The_Heist/scenarios/heist-03heist.cfg:5
+#, fuzzy
 msgid "The Heist"
-msgstr ""
+msgstr "Kuppen"
 
 #: The_Heist.cfg:11
 msgid " (Version"
 msgstr " (Version"
 
 #: The_Heist.cfg:11
+#, fuzzy
 msgid "A plot to steal a king's treasure goes awry."
-msgstr ""
+msgstr "En sammansvärjning för att stjäla kungens skatt slår slint."
 
 #: The_Heist.cfg:15
+#, fuzzy
 msgid ""
 "&neutral-outlaw-queen.png=Easy;*&neutral-outlaw.png=Normal;&warrior-king."
 "png=Hard"
 msgstr ""
+"&neutral-outlaw-queen.png=Lätt;*&neutral-outlaw.png=Normal;&warrior-king."
+"png=Svårt"
 
 #: The_Heist/scenarios/heist-01intro.cfg:5
 msgid "The Plan"
 msgstr "Planen"
 
 #: The_Heist/scenarios/heist-01intro.cfg:58
+#, fuzzy
 msgid "Xavier"
-msgstr ""
+msgstr "Xavier"
 
 #: The_Heist/scenarios/heist-01intro.cfg:59
+#, fuzzy
 msgid "Baltizar"
-msgstr ""
+msgstr "Baltizar"
 
 #: The_Heist/scenarios/heist-01intro.cfg:60
+#, fuzzy
 msgid "Judas"
-msgstr ""
+msgstr "Judas"
 
 #: The_Heist/scenarios/heist-01intro.cfg:61
 #: The_Heist/scenarios/heist-02battle.cfg:121
+#, fuzzy
 msgid "Rogan"
-msgstr ""
+msgstr "Rogan"
 
 #: The_Heist/scenarios/heist-01intro.cfg:62
+#, fuzzy
 msgid "Leana"
-msgstr ""
+msgstr "Leana"
 
 #: The_Heist/scenarios/heist-01intro.cfg:74
+#, fuzzy
 msgid "Why don't you tell us why you brought us all here?"
-msgstr ""
+msgstr "Varför berättar du inte varför du har sammankallat oss?"
 
 #: The_Heist/scenarios/heist-01intro.cfg:79
+#, fuzzy
 msgid ""
 "Well, as you all know, the feud between King Gerald and King Theomund is "
 "escalating. According to my sources, Theomund aims to overthrow the "
 "tyrannous king tomorrow night."
 msgstr ""
+"Ja, som ni alla vet, har fejden mellan Kung Gerald och Kung Theomund "
+"trappats upp. Enligt mina källor, försöker Theomund besegra den tyranniska "
+"kungen imorgon natt."
 
 #: The_Heist/scenarios/heist-01intro.cfg:84
+#, fuzzy
 msgid ""
 "Well, it's about time someone removed that poor excuse for a king from power."
-msgstr ""
+msgstr "Tja, det är på tiden att någon avsatte den där undermåliga kungen."
 
 #: The_Heist/scenarios/heist-01intro.cfg:89
+#, fuzzy
 msgid ""
 "I agree. However, it will not be Theomund. In fact, we are going to help "
 "Gerald defeat Theomund's army."
 msgstr ""
+"Jag instämmer. Hur som helst, det kommer inte bli Theomund. I klarspråk, vi "
+"kommer att hjälpa Gerald att besegra Theomunds armé."
 
 #: The_Heist/scenarios/heist-01intro.cfg:94
 #: The_Heist/scenarios/heist-10persuasion.cfg:87
@@ -85,16 +104,22 @@ msgid "What?"
 msgstr "Vad?"
 
 #: The_Heist/scenarios/heist-01intro.cfg:99
+#, fuzzy
 msgid ""
 "After our victory, we will accompany Gerald and his men back to the castle. "
 "Then we'll wait for an opportune moment to ask for a personal tour."
 msgstr ""
+"Efter våran seger, kommer vi att göra Gerland och hans mannar sällskap "
+"tillbaka till slottet. Sen väntar vi på ett tillfälle att fråga om en privat "
+"tur i slottet."
 
 #: The_Heist/scenarios/heist-01intro.cfg:104
+#, fuzzy
 msgid "Zilead..."
-msgstr ""
+msgstr "Zilead..."
 
 #: The_Heist/scenarios/heist-01intro.cfg:109
+#, fuzzy
 msgid ""
 "After we are taken to the castle's underground chamber, we'll slay his "
 "guards, force Gerald to tell us where he keeps his treasure, then slay the "
@@ -102,154 +127,209 @@ msgid ""
 "back up to the main level, have a drink with Gerald's men, and then head out "
 "the castle's main gate."
 msgstr ""
+"När vi har blivit förda till slottets underjordiska kammare, dödar vi hans "
+"vakter, tvingar Gerald att berätta var han gömmer sin skatt, sen därpa "
+"kungen, gömma kropparna, hitta skatten, ta så mycket vi kan bära, gå "
+"tillbaka till grundvåningen, dricka med Geralds mannar, och sedan gå ut "
+"genom slottets huvudingång."
 
 #: The_Heist/scenarios/heist-01intro.cfg:118
+#, fuzzy
 msgid ""
 "Ardella, my father is attempting a siege of King Gerald's castle tomorrow "
 "evening. Rogan has informed me that Gerald is well aware of my father's plan."
 msgstr ""
+"Ardella, min far kommer att försöka göra inbrott i Kung Geralds slott i "
+"morgon kväll. Rogan har informerat mig att Gerald vet om min fars plan."
 
 #: The_Heist/scenarios/heist-01intro.cfg:123
+#, fuzzy
 msgid ""
 "King Gerald has foolishly decided not to defend his castle. Instead, he will "
 "confront Theomund's army in the field. It will be a massacre."
 msgstr ""
+"Kung Gerald har dåraktigt nog bestämt att inte försvara sitt slott. "
+"Istället, kommer han försöka konfrontera Theomunds arme i fält. Det kommer "
+"bli en massaker."
 
 #: The_Heist/scenarios/heist-01intro.cfg:128
+#, fuzzy
 msgid ""
 "Ardella, we need your help. Rogan and I must flee this land. There is a "
 "little known island far west of Wesnoth where we can start a new life "
 "together."
 msgstr ""
+"Ardella, vi behöver din hjälp. Rogan och jag måste fly från detta land. Det "
+"finns en ganska okänd ö långt västerut, långt i från Wesnoth, där vi kan "
+"börja ett nytt liv tillsammans."
 
 #: The_Heist/scenarios/heist-01intro.cfg:133
+#, fuzzy
 msgid "How can I help?"
-msgstr ""
+msgstr "Hur kan jag hjälpa till?"
 
 #: The_Heist/scenarios/heist-01intro.cfg:138
+#, fuzzy
 msgid ""
 "If we are to start a new life, we'll need gold. More specifically, we'll "
 "need King Gerald's gold."
 msgstr ""
+"Om vi ska börja ett nytt liv, kommer vi att behöva guld. Mer specifikt, vi "
+"kommer att behöva Kung Geralds guld."
 
 #: The_Heist/scenarios/heist-01intro.cfg:147
+#, fuzzy
 msgid "Good night, men."
-msgstr ""
+msgstr "God natt, mannar."
 
 #: The_Heist/scenarios/heist-01intro.cfg:192
+#, fuzzy
 msgid "Hello, old friend. What have you got for me?"
-msgstr ""
+msgstr "God dag, gamle vän. Vad har du att säga?"
 
 #: The_Heist/scenarios/heist-01intro.cfg:196
+#, fuzzy
 msgid "You're not going to believe this."
-msgstr ""
+msgstr "Du kommer inte att tro mig."
 
 #: The_Heist/scenarios/heist-01intro.cfg:200
+#, fuzzy
 msgid "I'm all ears."
-msgstr ""
+msgstr "Jag lyssnar."
 
 #: The_Heist/scenarios/heist-02battle.cfg:5
+#, fuzzy
 msgid "The Battle"
-msgstr ""
+msgstr "Striden "
 
 #: The_Heist/scenarios/heist-02battle.cfg:79
+#, fuzzy
 msgid "When Gerald has twice as many men as Theomund"
-msgstr ""
+msgstr "När Gerald har dubbelt så många trupper som Theomund"
 
 #: The_Heist/scenarios/heist-02battle.cfg:84
+#, fuzzy
 msgid "You did not kill at least 3 units"
-msgstr ""
+msgstr "Du dödade inte minst 3 fiender"
 
 #: The_Heist/scenarios/heist-02battle.cfg:87
+#, fuzzy
 msgid "You did not kill at least 4 units"
-msgstr ""
+msgstr "Du dödade inte minst 4 fiender"
 
 #: The_Heist/scenarios/heist-02battle.cfg:90
+#, fuzzy
 msgid "You did not kill at least 5 units"
-msgstr ""
+msgstr "Du dödade inte minst 5 fiender"
 
 #: The_Heist/scenarios/heist-02battle.cfg:95
+#, fuzzy
 msgid "Death of Gerald"
-msgstr ""
+msgstr "Gerald dör"
 
 #: The_Heist/scenarios/heist-02battle.cfg:99
+#, fuzzy
 msgid "Death of Theomund"
-msgstr ""
+msgstr "Theomund dör"
 
 #: The_Heist/scenarios/heist-02battle.cfg:103
+#, fuzzy
 msgid "Death of Zilead or any of his men"
-msgstr ""
+msgstr "Zilead eller någon av hans mannar dör"
 
 #: The_Heist/scenarios/heist-02battle.cfg:175
+#, fuzzy
 msgid "Surrender now, Gerald, and I will send you and your men into exile."
-msgstr ""
+msgstr "Kapitulera nu, Gerald, så landsförvisar jag dina mannar."
 
 #: The_Heist/scenarios/heist-02battle.cfg:179
+#, fuzzy
 msgid ""
 "What insolence! You'll receive no such offer from me. The reign of Theomund "
 "is over! Men, kill every last one of them!"
 msgstr ""
+"Vilken oförskämdhet! Du kommer inte få ett sådant erbjudande från mig. "
+"Theomunds regeringstid är över! Mannar, döda dem alla!"
 
 #: The_Heist/scenarios/heist-02battle.cfg:188
+#, fuzzy
 msgid ""
 "Would anyone care for a drink? I've got a bottle of the finest liquor this "
 "side of Wesnoth."
 msgstr ""
+"Skulle någon vilja ha en drink? Jag har en flaska med den finaste "
+"starkspriten på den här sidan av Wesnoth."
 
 #: The_Heist/scenarios/heist-02battle.cfg:193
+#, fuzzy
 msgid "Stolen from King Gerald's liquor cabinet, no doubt."
-msgstr ""
+msgstr "Stulen från Kung Geralds spritskåp, utan tvekan."
 
 #: The_Heist/scenarios/heist-02battle.cfg:198
+#, fuzzy
 msgid "Right you are, sir."
-msgstr ""
+msgstr "Du har så rätt, sir."
 
 #: The_Heist/scenarios/heist-02battle.cfg:203
+#, fuzzy
 msgid "I'll take a swig."
-msgstr ""
+msgstr "Jag tar ett järn."
 
 #: The_Heist/scenarios/heist-02battle.cfg:336
+#, fuzzy
 msgid ""
 "Because of our greed, a truly great king is dead. We should be ashamed of "
 "ourselves."
-msgstr ""
+msgstr "På grund av våran girighet, är våran kung död. Vi borde skämmas."
 
 #: The_Heist/scenarios/heist-02battle.cfg:354
+#, fuzzy
 msgid "King Gerald has been slain. We have failed."
-msgstr ""
+msgstr "Kung Gerald har dött. Vi har förlorat."
 
 #: The_Heist/scenarios/heist-02battle.cfg:385
+#, fuzzy
 msgid ""
 "|$killed| is dead! We will never get our hands on Gerald's treasure now."
-msgstr ""
+msgstr "|$killed| is dead! Vi kommer aldrig kunna få tag på Geralds skatt nu."
 
 #: The_Heist/scenarios/heist-02battle.cfg:434
+#, fuzzy
 msgid "Theomund's men are retreating."
-msgstr ""
+msgstr "Theomunds mannar retirerar."
 
 #: The_Heist/scenarios/heist-02battle.cfg:438
+#, fuzzy
 msgid "Well done, King Gerald."
-msgstr ""
+msgstr "Bra gjort, Kung Gerald."
 
 #: The_Heist/scenarios/heist-02battle.cfg:448
+#, fuzzy
 msgid ""
 "Zilead, you assured me that you and your friends would help me defeat "
 "Theomund. Instead, you fought like cowards. Get out of my sight!"
 msgstr ""
+"Zilead, du övertygade mig att du och dina vänner skulle hjälpa mig besegra "
+"Theomund. Istället, slogs ni som ynkryggar. Försvinn ur min åsyn!"
 
 #: The_Heist/scenarios/heist-02battle.cfg:457
+#, fuzzy
 msgid ""
 "Thank you, Zilead. It would not have been a victory without your help. I am "
 "eternally grateful to you."
 msgstr ""
+"Jag tackar dig, Zilead. Utan dig skulle vi inte ha segrat. Jag är dig för "
+"alltid tacksam."
 
 #: The_Heist/scenarios/heist-02battle.cfg:470
+#, fuzzy
 msgid "We have lost this battle. Retreat!"
-msgstr ""
+msgstr "Vi har förlorat den här striden. Retirera!"
 
 #: The_Heist/scenarios/heist-03heist.cfg:47
+#, fuzzy
 msgid "Find the treasure"
-msgstr ""
+msgstr "Hitta skatten"
 
 #: The_Heist/scenarios/heist-11statues.cfg:1171
 #: The_Heist/scenarios/heist-03heist.cfg:51
@@ -257,8 +337,9 @@ msgid "Turns run out"
 msgstr "Dragen tar slut"
 
 #: The_Heist/scenarios/heist-03heist.cfg:55
+#, fuzzy
 msgid "Death of Ardella, Leana, or Rogan"
-msgstr ""
+msgstr "Ardella, Leana eller Rogan dör"
 
 #: The_Heist/scenarios/heist-03heist.cfg:77
 #: The_Heist/scenarios/heist-03heist.cfg:78
@@ -284,76 +365,93 @@ msgid "Gate"
 msgstr "Port"
 
 #: The_Heist/scenarios/heist-03heist.cfg:168
+#, fuzzy
 msgid "Now, hurry. We haven't much time before Gerald returns."
-msgstr ""
+msgstr "Nu, skynda. Vi har inte mycket tid innan Gerald kommer tillbaka."
 
 #: The_Heist/scenarios/heist-03heist.cfg:182
 #: The_Heist/scenarios/heist-06hideout.cfg:300
+#, fuzzy
 msgid "I have lost my dearest friend. I am sorry, Ardella."
-msgstr ""
+msgstr "Jag har förlorat min käraste vän. Jag är ledsen, Ardella."
 
 #: The_Heist/scenarios/heist-03heist.cfg:197
 #: The_Heist/scenarios/heist-06hideout.cfg:314
+#, fuzzy
 msgid "Leana!"
-msgstr ""
+msgstr "Leana!"
 
 #: The_Heist/scenarios/heist-03heist.cfg:212
 #: The_Heist/scenarios/heist-06hideout.cfg:328
+#, fuzzy
 msgid "Rogan!"
-msgstr ""
+msgstr "Rogan!"
 
 #: The_Heist/scenarios/heist-03heist.cfg:296
+#, fuzzy
 msgid "What do you want?"
-msgstr ""
+msgstr "Vad vill du?"
 
 #: The_Heist/scenarios/heist-03heist.cfg:301
+#, fuzzy
 msgid "Follow us if you want to escape."
-msgstr ""
+msgstr "Följ efter oss om du vill fly."
 
 #: The_Heist/scenarios/heist-03heist.cfg:324
+#, fuzzy
 msgid "We must abondon our mission. Gerald's men will be here presently."
 msgstr ""
+"Vi måste avbryta vårat uppdrag. Geralds mannar kommer vara här inom kort."
 
 #: The_Heist/scenarios/heist-04tour.cfg:5
+#, fuzzy
 msgid "The Tour"
-msgstr ""
+msgstr "Turen"
 
 #: The_Heist/scenarios/heist-04tour.cfg:127
+#, fuzzy
 msgid "And this is the dungeon where my enemies are left to rot."
-msgstr ""
+msgstr "Och det här är min kammare där jag lämnar mina fiender att ruttna."
 
 #: The_Heist/scenarios/heist-04tour.cfg:131
+#, fuzzy
 msgid "That explains the smell."
-msgstr ""
+msgstr "Det förklarar stanken."
 
 #: The_Heist/scenarios/heist-04tour.cfg:135
+#, fuzzy
 msgid "Aye, let us not linger here any longer."
-msgstr ""
+msgstr "Aye, låt oss inte dröja oss kvar ännu längre."
 
 #: The_Heist/scenarios/heist-04tour.cfg:139
 msgid "My liege, where are the guards?"
 msgstr ""
 
 #: The_Heist/scenarios/heist-04tour.cfg:143
+#, fuzzy
 msgid "Oh no!"
-msgstr ""
+msgstr "Åh nej!"
 
 #: The_Heist/scenarios/heist-04tour.cfg:164
+#, fuzzy
 msgid "My treasure!"
-msgstr ""
+msgstr "Min skatt!"
 
 #: The_Heist/scenarios/heist-04tour.cfg:185
+#, fuzzy
 msgid "My treasure is gone!"
-msgstr ""
+msgstr "Min skatt är borta!"
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:297
 #: The_Heist/scenarios/heist-04tour.cfg:189
+#, fuzzy
 msgid "Zilead!"
-msgstr ""
+msgstr "Zilead!"
 
 #: The_Heist/scenarios/heist-04tour.cfg:193
+#, fuzzy
 msgid "Men, find my treasure and bring me the heads of those responsible!"
-msgstr ""
+msgstr "Mannar, hitta min skatt och hämta hit huvuderna på de ansvariga!"
 
 #: The_Heist/scenarios/heist-04tour.cfg:197
 msgid ""
@@ -371,8 +469,9 @@ msgid "The Collision"
 msgstr ""
 
 #: The_Heist/scenarios/heist-05town.cfg:63
+#, fuzzy
 msgid "Kill everyone but Zilead"
-msgstr ""
+msgstr "Döda alla förutom Zilead"
 
 #: The_Heist/scenarios/heist-05town.cfg:67
 msgid "Death of Bill"
