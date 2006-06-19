@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-13 13:51+0100\n"
-"PO-Revision-Date: 2006-06-15 13:28+0200\n"
+"PO-Revision-Date: 2006-06-18 10:40+0200\n"
 "Last-Translator: Automatically generated <highhole@famsik.de>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 
 #: The_Heist.cfg:8 The_Heist/scenarios/heist-03heist.cfg:5
 msgid "The Heist"
-msgstr ""
+msgstr "Der Raubüberfall"
 
 #: The_Heist.cfg:11
 msgid " (Version"
@@ -496,7 +496,7 @@ msgstr "Zilead?"
 
 #: The_Heist/scenarios/heist-05town.cfg:273
 msgid "We did not steal the treasure!"
-msgstr ""
+msgstr "Wir haben den Schatz nicht gestohlen!"
 
 #: The_Heist/scenarios/heist-05town.cfg:277
 msgid "Aye, the treasure was already gone before we could get our hands on it."
@@ -643,18 +643,23 @@ msgid ""
 "Forget it! They won't help us! We don't need their help! Let's go men, we "
 "have orcs to kill!"
 msgstr ""
+"Vergiss es! Sie werden uns nicht helfen. Wir brauchen ihre Filfe auch nicht! "
+"Lasst uns gehen Männer, wir haben ein paar Orks zu töten."
 
 #: The_Heist/scenarios/heist-06hideout.cfg:217
 msgid "You have saved us from those evil creatures. How can we repay you?"
 msgstr ""
+"Du hast uns vor dieser bösartigen Kreatur gerettet. Wie können das nur "
+"begleichen?"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:221
 msgid "Well, we need a place to stay for the night."
 msgstr ""
 
 #: The_Heist/scenarios/heist-06hideout.cfg:225
+#, fuzzy
 msgid "You'll always be welcome here, your highness."
-msgstr ""
+msgstr "Ihr werdet hier immer willkommen geheißen werden, Hoheit."
 
 #: The_Heist/scenarios/heist-15breakout.cfg:333
 #: The_Heist/scenarios/heist-06hideout.cfg:227
@@ -690,7 +695,7 @@ msgstr "Wo sind meine Kinder?"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:288
 msgid "We're right here, mommy!"
-msgstr ""
+msgstr "Uns geht es gut hier, Mutti!"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:343
 #: The_Heist/scenarios/heist-08family.cfg:353
@@ -779,8 +784,11 @@ msgid "Zeke! Anna! Wake up!"
 msgstr "Zeke!·Anna!·Wacht auf!"
 
 #: The_Heist/scenarios/heist-08family.cfg:129
+#, fuzzy
 msgid "Who are you, stranger? And what brings you here at this time of night?"
 msgstr ""
+"Wer bist du, Fremder? Und was bringt dich hierher um dieser Zeit in der "
+"Nacht?"
 
 #: The_Heist/scenarios/heist-08family.cfg:133
 msgid ""
@@ -800,7 +808,7 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-08family.cfg:148
 msgid "Is there something you haven't told us, your highness?"
-msgstr ""
+msgstr "Gibt es etwas, was du uns nicht erzählt hast, eure Hoheit?"
 
 #: The_Heist/scenarios/heist-08family.cfg:152
 msgid ""
@@ -845,8 +853,9 @@ msgid "Perhaps I should slit the throats of your children!"
 msgstr ""
 
 #: The_Heist/scenarios/heist-08family.cfg:303
+#, fuzzy
 msgid "Zeke, just tell them!"
-msgstr ""
+msgstr "Zeke, erzähl' es ihnen einfach."
 
 #: The_Heist/scenarios/heist-08family.cfg:307
 msgid ""
@@ -855,8 +864,9 @@ msgid ""
 msgstr ""
 
 #: The_Heist/scenarios/heist-08family.cfg:311
+#, fuzzy
 msgid "I too am sorry. Men, kill every last one of them!"
-msgstr ""
+msgstr "Es tut mir auch leit. Männer, tötet die letzten. dei noch übrig sind!"
 
 #: The_Heist/scenarios/heist-08family.cfg:342
 msgid ""
@@ -899,7 +909,7 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:252
 msgid "One of Bill's men gets there first."
-msgstr ""
+msgstr "EInen von Bills Männer ist zuerst da."
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:256
 msgid "Bill's men are near the castle when you get there."
@@ -907,7 +917,7 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:260
 msgid "Turns run out."
-msgstr ""
+msgstr "Rundenlimit überschritten."
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:266
 msgid "Randalf"
@@ -932,11 +942,12 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:469
 msgid "You'll just have to trust me, Bill."
-msgstr ""
+msgstr "Du musst mir einfach nur vertrauen, Bill."
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:504
+#, fuzzy
 msgid "Why have you shown these lowlifes the way to my castle, Zilead?"
-msgstr ""
+msgstr "Warum hast du diesen Halblebenden meine Burg gezeigt, Zilead?"
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:508
 #, fuzzy
@@ -1005,7 +1016,7 @@ msgstr "Was denn?"
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:634
 msgid "I thought I heard a voice in the distance."
-msgstr ""
+msgstr "Ich dachte, ich hätte in der Ferne ein Geräusch gehört."
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:638
 msgid "It's probably just the rustling of the wind."
@@ -1089,8 +1100,9 @@ msgid ""
 msgstr ""
 
 #: The_Heist/scenarios/heist-11statues.cfg:5
+#, fuzzy
 msgid "The Statues"
-msgstr ""
+msgstr "Die Staturen"
 
 #: The_Heist/scenarios/heist-11statues.cfg:591
 #: The_Heist/scenarios/heist-11statues.cfg:598
@@ -1213,8 +1225,9 @@ msgid "Positive."
 msgstr "Positiv."
 
 #: The_Heist/scenarios/heist-11statues.cfg:1266
+#, fuzzy
 msgid "Fine, I will put a spell on your statues if you bring me the stone."
-msgstr ""
+msgstr "Schön, ich werde die Statur bezaubern, wenn du mir den Stein bringst."
 
 #: The_Heist/scenarios/heist-11statues.cfg:1270
 msgid ""
@@ -1440,11 +1453,12 @@ msgstr "Die Belagerung - Teil I"
 
 #: The_Heist/scenarios/heist-14siege1.cfg:75
 msgid "Move Zilead to Gerald's keep."
-msgstr ""
+msgstr "Leitet Zilead zur Burg Geralds."
 
 #: The_Heist/scenarios/heist-14siege1.cfg:79
+#, fuzzy
 msgid "End of turns"
-msgstr ""
+msgstr "Ende des Zuges"
 
 #: The_Heist/scenarios/heist-16siege2.cfg:223
 #: The_Heist/scenarios/heist-14siege1.cfg:83
@@ -1461,7 +1475,7 @@ msgstr "Elgareth?"
 
 #: The_Heist/scenarios/heist-14siege1.cfg:129
 msgid "Malah! Starkah! Destruah!"
-msgstr ""
+msgstr "Malah!·Starkah!·Destruah!"
 
 #: The_Heist/scenarios/heist-14siege1.cfg:133
 msgid "Who are you?"
@@ -1479,7 +1493,7 @@ msgstr "Wo sind geralds Männer?"
 
 #: The_Heist/scenarios/heist-14siege1.cfg:145
 msgid "Something doesn't feel right."
-msgstr ""
+msgstr "Irgentwas stimmt hier nicht."
 
 #: The_Heist/scenarios/heist-14siege1.cfg:149
 msgid ""
@@ -1579,7 +1593,7 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-15breakout.cfg:427
 msgid "Leana, we've finally found you!"
-msgstr ""
+msgstr "Leana, endlich haben wir dich gefunden."
 
 #: The_Heist/scenarios/heist-15breakout.cfg:465
 msgid "Theomund!"
@@ -1658,8 +1672,9 @@ msgid "Death of a child."
 msgstr "Tod einen Kindes."
 
 #: The_Heist/scenarios/heist-16siege2.cfg:322
+#, fuzzy
 msgid "Gerald's men are approaching!"
-msgstr ""
+msgstr "Geralds Männer klopfen an!"
 
 #: The_Heist/scenarios/heist-16siege2.cfg:326
 msgid "Let them come!"
@@ -1771,11 +1786,11 @@ msgstr "Prinzessin Leana"
 
 #: The_Heist/scenarios/heist-siege.cfg:489
 msgid "I am sorry, Leana. Rogan"
-msgstr ""
+msgstr "Es tut mir leit, Leana.·Rogan"
 
 #: The_Heist/scenarios/heist-siege.cfg:490
 msgid "My dearest friend"
-msgstr ""
+msgstr "Mein liebster Freunt"
 
 #: The_Heist/scenarios/heist-siege.cfg:491
 msgid "I am sorry, Leana. Your friend"
@@ -1832,11 +1847,11 @@ msgstr "Ein Templer mit einem Orkkopf an seiner Lanze."
 
 #: The_Heist/units/Blonde_Kid.cfg:4
 msgid "Blonde Kid"
-msgstr ""
+msgstr "Blondes Kind"
 
 #: The_Heist/units/Blonde_Kid.cfg:18
 msgid "A kid with blonde hair."
-msgstr ""
+msgstr "Ein Kind mit Blonden Haaren."
 
 #: The_Heist/units/Blood_Bat_Pup.cfg:4
 msgid "Blood Bat Pup"
@@ -1875,8 +1890,9 @@ msgid "female^Great Mage"
 msgstr ""
 
 #: The_Heist/units/Heist_Witch.cfg:4
+#, fuzzy
 msgid "Heist Witch"
-msgstr ""
+msgstr "Raubüberfallhexe"
 
 #: The_Heist/units/Heist_Witch.cfg:17
 msgid "A witch! Burn her!"
@@ -1897,19 +1913,21 @@ msgstr "Bewegbarer Stein"
 
 #: The_Heist/units/Movable_Rock.cfg:32
 msgid "A movable rock."
-msgstr ""
+msgstr "Ein bewegbarer Stein"
 
 #: The_Heist/units/Orcish_Archer.cfg:4
+#, fuzzy
 msgid "Cave Orcish Archer"
-msgstr ""
+msgstr "Höhlenorkbogenschütze"
 
 #: The_Heist/units/Orcish_Archer.cfg:18
 msgid "An Orcish Archer that can only move inside caves."
 msgstr ""
 
 #: The_Heist/units/Orcish_Grunt.cfg:4
+#, fuzzy
 msgid "Cave Orcish Grunt"
-msgstr ""
+msgstr "Höhlenorkgrunzer"
 
 #: The_Heist/units/Orcish_Grunt.cfg:17
 msgid "An Orcish Grunt that can only move inside caves."
