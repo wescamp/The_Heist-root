@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-13 13:51+0100\n"
-"PO-Revision-Date: 2006-01-01 16:48+0100\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2006-06-22 15:51+0100\n"
+"Last-Translator: Brivido <brivido@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,46 +17,48 @@ msgstr ""
 
 #: The_Heist.cfg:11
 msgid " (Version"
-msgstr ""
+msgstr " (versione "
 
 #: The_Heist.cfg:11
 msgid "A plot to steal a king's treasure goes awry."
-msgstr ""
+msgstr "Il piano per rubare il tesoro del re finisce male."
 
 #: The_Heist.cfg:15
 msgid ""
 "&neutral-outlaw-queen.png=Easy;*&neutral-outlaw.png=Normal;&warrior-king."
 "png=Hard"
 msgstr ""
+"&neutral-outlaw-queen.png=facile;*&neutral-outlaw.png=normale;&warrior-king."
+"png=difficile"
 
 #: The_Heist/scenarios/heist-01intro.cfg:5
 msgid "The Plan"
-msgstr ""
+msgstr "Il piano"
 
 #: The_Heist/scenarios/heist-01intro.cfg:58
 msgid "Xavier"
-msgstr ""
+msgstr "Xavier"
 
 #: The_Heist/scenarios/heist-01intro.cfg:59
 msgid "Baltizar"
-msgstr ""
+msgstr "Baltizar"
 
 #: The_Heist/scenarios/heist-01intro.cfg:60
 msgid "Judas"
-msgstr ""
+msgstr "Judas"
 
 #: The_Heist/scenarios/heist-01intro.cfg:61
 #: The_Heist/scenarios/heist-02battle.cfg:121
 msgid "Rogan"
-msgstr ""
+msgstr "Rogan"
 
 #: The_Heist/scenarios/heist-01intro.cfg:62
 msgid "Leana"
-msgstr ""
+msgstr "Leana"
 
 #: The_Heist/scenarios/heist-01intro.cfg:74
 msgid "Why don't you tell us why you brought us all here?"
-msgstr ""
+msgstr "Perché non cominci a dirci il motivo per cui ci hai convocato?"
 
 #: The_Heist/scenarios/heist-01intro.cfg:79
 msgid ""
@@ -80,7 +82,7 @@ msgstr ""
 #: The_Heist/scenarios/heist-10persuasion.cfg:87
 #: The_Heist/scenarios/heist-04tour.cfg:201
 msgid "What?"
-msgstr ""
+msgstr "Cosa?"
 
 #: The_Heist/scenarios/heist-01intro.cfg:99
 msgid ""
@@ -90,7 +92,7 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-01intro.cfg:104
 msgid "Zilead..."
-msgstr ""
+msgstr "Zilead..."
 
 #: The_Heist/scenarios/heist-01intro.cfg:109
 msgid ""
@@ -122,7 +124,7 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-01intro.cfg:133
 msgid "How can I help?"
-msgstr ""
+msgstr "Come posso aiutarti?"
 
 #: The_Heist/scenarios/heist-01intro.cfg:138
 msgid ""
@@ -132,7 +134,7 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-01intro.cfg:147
 msgid "Good night, men."
-msgstr ""
+msgstr "Buona notte, signori."
 
 #: The_Heist/scenarios/heist-01intro.cfg:192
 msgid "Hello, old friend. What have you got for me?"
@@ -140,53 +142,57 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-01intro.cfg:196
 msgid "You're not going to believe this."
-msgstr ""
+msgstr "Non ci crederai."
 
 #: The_Heist/scenarios/heist-01intro.cfg:200
 msgid "I'm all ears."
-msgstr ""
+msgstr "Sono tutto orecchi."
 
 #: The_Heist/scenarios/heist-02battle.cfg:5
 msgid "The Battle"
-msgstr ""
+msgstr "La battaglia"
 
 #: The_Heist/scenarios/heist-02battle.cfg:79
 msgid "When Gerald has twice as many men as Theomund"
-msgstr ""
+msgstr "Quando Gerald aveva il doppio degli uomini di Theomund"
 
 #: The_Heist/scenarios/heist-02battle.cfg:84
 msgid "You did not kill at least 3 units"
-msgstr ""
+msgstr "Non hai eliminato almeno tre unità."
 
 #: The_Heist/scenarios/heist-02battle.cfg:87
 msgid "You did not kill at least 4 units"
-msgstr ""
+msgstr "Non hai eliminato almeno quattro unità."
 
 #: The_Heist/scenarios/heist-02battle.cfg:90
 msgid "You did not kill at least 5 units"
-msgstr ""
+msgstr "Non hai eliminato almeno cinque unità."
 
 #: The_Heist/scenarios/heist-02battle.cfg:95
 msgid "Death of Gerald"
-msgstr ""
+msgstr "Morte di Gerald"
 
 #: The_Heist/scenarios/heist-02battle.cfg:99
 msgid "Death of Theomund"
-msgstr ""
+msgstr "Morte di Theomund"
 
 #: The_Heist/scenarios/heist-02battle.cfg:103
 msgid "Death of Zilead or any of his men"
-msgstr ""
+msgstr "Morte di Zilead o di uno qualunque dei suoi uomini."
 
 #: The_Heist/scenarios/heist-02battle.cfg:175
 msgid "Surrender now, Gerald, and I will send you and your men into exile."
 msgstr ""
+"Arrenditi adesso, Gerald, e io ti permetterò di andare in esilio assieme ai "
+"tuoi uomini."
 
 #: The_Heist/scenarios/heist-02battle.cfg:179
 msgid ""
 "What insolence! You'll receive no such offer from me. The reign of Theomund "
 "is over! Men, kill every last one of them!"
 msgstr ""
+"Che insolente! NOn avrai una offerta simile da parte mia. Il regno di "
+"Theomund è finito! Uomini, uccideteli tutti fino all'ultimo!"
 
 #: The_Heist/scenarios/heist-02battle.cfg:188
 msgid ""
@@ -200,7 +206,7 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-02battle.cfg:198
 msgid "Right you are, sir."
-msgstr ""
+msgstr "Avete ragione, sire."
 
 #: The_Heist/scenarios/heist-02battle.cfg:203
 msgid "I'll take a swig."
@@ -214,49 +220,55 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-02battle.cfg:354
 msgid "King Gerald has been slain. We have failed."
-msgstr ""
+msgstr "Re Gerald è stato ucciso. Abbiamo fallito."
 
 #: The_Heist/scenarios/heist-02battle.cfg:385
 msgid ""
 "|$killed| is dead! We will never get our hands on Gerald's treasure now."
 msgstr ""
+"|$killed| è morto! Adesso non metteremo mai più le mani sul tesoro di Gerald."
 
 #: The_Heist/scenarios/heist-02battle.cfg:434
 msgid "Theomund's men are retreating."
-msgstr ""
+msgstr "Gli uomini di Theomund si stanno ritirando."
 
 #: The_Heist/scenarios/heist-02battle.cfg:438
 msgid "Well done, King Gerald."
-msgstr ""
+msgstr "Ben fatto, re Gerald."
 
 #: The_Heist/scenarios/heist-02battle.cfg:448
 msgid ""
 "Zilead, you assured me that you and your friends would help me defeat "
 "Theomund. Instead, you fought like cowards. Get out of my sight!"
 msgstr ""
+"Zilead, mi avevi assicurato che tu e i tuoi amici mi avreste aiutato per "
+"sconfiggere Theomund. Invece, avete combattuto come dei vigliacchi. Non ti "
+"voglio più vedere!"
 
 #: The_Heist/scenarios/heist-02battle.cfg:457
 msgid ""
 "Thank you, Zilead. It would not have been a victory without your help. I am "
 "eternally grateful to you."
 msgstr ""
+"Grazie, Zilead. Non avremmo potuto vincere senza il tuo aiuto. Ti sarò grato "
+"per sempre."
 
 #: The_Heist/scenarios/heist-02battle.cfg:470
 msgid "We have lost this battle. Retreat!"
-msgstr ""
+msgstr "Questa battaglia è persa. Ritiriamoci!"
 
 #: The_Heist/scenarios/heist-03heist.cfg:47
 msgid "Find the treasure"
-msgstr ""
+msgstr "Trova il tesoro."
 
 #: The_Heist/scenarios/heist-11statues.cfg:1171
 #: The_Heist/scenarios/heist-03heist.cfg:51
 msgid "Turns run out"
-msgstr ""
+msgstr "Fine dei turni a disposizione."
 
 #: The_Heist/scenarios/heist-03heist.cfg:55
 msgid "Death of Ardella, Leana, or Rogan"
-msgstr ""
+msgstr "Morte di Adelia, Leana o Rogan"
 
 #: The_Heist/scenarios/heist-03heist.cfg:77
 #: The_Heist/scenarios/heist-03heist.cfg:78
@@ -279,50 +291,52 @@ msgstr ""
 #: The_Heist/scenarios/heist-15breakout.cfg:116
 #: The_Heist/scenarios/heist-15breakout.cfg:117
 msgid "Gate"
-msgstr ""
+msgstr "Cancello"
 
 #: The_Heist/scenarios/heist-03heist.cfg:168
 msgid "Now, hurry. We haven't much time before Gerald returns."
-msgstr ""
+msgstr "Adesso sbrighiamoci. Non abbiamo molto tempo prima che Gerald ritorni."
 
 #: The_Heist/scenarios/heist-03heist.cfg:182
 #: The_Heist/scenarios/heist-06hideout.cfg:300
 msgid "I have lost my dearest friend. I am sorry, Ardella."
-msgstr ""
+msgstr "Ho perso il mio amico più caro. Mi spiace, Ardelia."
 
 #: The_Heist/scenarios/heist-03heist.cfg:197
 #: The_Heist/scenarios/heist-06hideout.cfg:314
 msgid "Leana!"
-msgstr ""
+msgstr "Leana!"
 
 #: The_Heist/scenarios/heist-03heist.cfg:212
 #: The_Heist/scenarios/heist-06hideout.cfg:328
 msgid "Rogan!"
-msgstr ""
+msgstr "Rogan!"
 
 #: The_Heist/scenarios/heist-03heist.cfg:296
 msgid "What do you want?"
-msgstr ""
+msgstr "Cosa vuoi?"
 
 #: The_Heist/scenarios/heist-03heist.cfg:301
 msgid "Follow us if you want to escape."
-msgstr ""
+msgstr "Seguici se vuoi fuggire."
 
 #: The_Heist/scenarios/heist-03heist.cfg:324
 msgid "We must abondon our mission. Gerald's men will be here presently."
 msgstr ""
+"Dobbiamo abbandonare la nostra missione. Gli uomini di Gerald stanno "
+"arrivando."
 
 #: The_Heist/scenarios/heist-04tour.cfg:5
 msgid "The Tour"
-msgstr ""
+msgstr "Il giro"
 
 #: The_Heist/scenarios/heist-04tour.cfg:127
 msgid "And this is the dungeon where my enemies are left to rot."
-msgstr ""
+msgstr "E questo è la segreta dove i miei nemici vengono rinchiusi a marcire."
 
 #: The_Heist/scenarios/heist-04tour.cfg:131
 msgid "That explains the smell."
-msgstr ""
+msgstr "Questo spiega la puzza."
 
 #: The_Heist/scenarios/heist-04tour.cfg:135
 msgid "Aye, let us not linger here any longer."
@@ -330,33 +344,35 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-04tour.cfg:139
 msgid "My liege, where are the guards?"
-msgstr ""
+msgstr "Mio signore, dove sono le guardie?"
 
 #: The_Heist/scenarios/heist-04tour.cfg:143
 msgid "Oh no!"
-msgstr ""
+msgstr "Oh no!"
 
 #: The_Heist/scenarios/heist-04tour.cfg:164
 msgid "My treasure!"
-msgstr ""
+msgstr "Il mio tesoro!"
 
 #: The_Heist/scenarios/heist-04tour.cfg:185
 msgid "My treasure is gone!"
-msgstr ""
+msgstr "Il mio tesoro è scomparso!"
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:297
 #: The_Heist/scenarios/heist-04tour.cfg:189
 msgid "Zilead!"
-msgstr ""
+msgstr "Zilead!"
 
 #: The_Heist/scenarios/heist-04tour.cfg:193
 msgid "Men, find my treasure and bring me the heads of those responsible!"
-msgstr ""
+msgstr "Uomini, trovate il mio tesoro e portatemi le teste dei responsabili!"
 
 #: The_Heist/scenarios/heist-04tour.cfg:197
 msgid ""
 "My liege, my men and I will help. Xavier is the best tracker in Wesnoth."
 msgstr ""
+"Mio signore, i miei uomini e io ti aiuteremo. Xavier è il migliore in tutto "
+"Wesnoth nel seguire le tracce."
 
 #: The_Heist/scenarios/heist-04tour.cfg:205
 msgid ""
@@ -366,19 +382,19 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-05town.cfg:5
 msgid "The Collision"
-msgstr ""
+msgstr "Lo scontro"
 
 #: The_Heist/scenarios/heist-05town.cfg:63
 msgid "Kill everyone but Zilead"
-msgstr ""
+msgstr "Uccidi tutti tranne Zilead."
 
 #: The_Heist/scenarios/heist-05town.cfg:67
 msgid "Death of Bill"
-msgstr ""
+msgstr "Morte di Bill"
 
 #: The_Heist/scenarios/heist-05town.cfg:71
 msgid "Death of Zilead"
-msgstr ""
+msgstr "Morte di Zilead"
 
 #: The_Heist/scenarios/heist-05town.cfg:176
 msgid ""
@@ -416,20 +432,20 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-05town.cfg:204
 msgid "Zilead, you and your men check the villages on that side."
-msgstr ""
+msgstr "Zilead, tu e i tuoi uomini controllate i villaggi su quel lato."
 
 #: The_Heist/scenarios/heist-05town.cfg:208
 #: The_Heist/scenarios/heist-14siege1.cfg:161
 msgid "As you wish."
-msgstr ""
+msgstr "Come desideri."
 
 #: The_Heist/scenarios/heist-05town.cfg:215
 msgid "Well, well, Zilead, we meet at last!"
-msgstr ""
+msgstr "Bene, bene, Zilead, finalmente ci incontriamo!"
 
 #: The_Heist/scenarios/heist-05town.cfg:219
 msgid "Wait..."
-msgstr ""
+msgstr "Aspetta..."
 
 #: The_Heist/scenarios/heist-05town.cfg:223
 msgid "Come on out, men! Gerald's gold is ripe for the taking!"
@@ -441,15 +457,15 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-05town.cfg:240
 msgid "Bill, you don't understand..."
-msgstr ""
+msgstr "Bill, tu non capisci..."
 
 #: The_Heist/scenarios/heist-05town.cfg:244
 msgid "What's going on, Judas?"
-msgstr ""
+msgstr "Cosa sta succedendo, Judas?"
 
 #: The_Heist/scenarios/heist-05town.cfg:248
 msgid "I'm so sorry. Bill's an old friend..."
-msgstr ""
+msgstr "Mi spiace. Bill è un vecchio amico..."
 
 #: The_Heist/scenarios/heist-05town.cfg:252
 msgid ""
@@ -459,7 +475,7 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-05town.cfg:256
 msgid "What did you call me?"
-msgstr ""
+msgstr "Come mi hai chiamato?"
 
 #: The_Heist/scenarios/heist-05town.cfg:261
 msgid ""
@@ -475,11 +491,11 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-05town.cfg:269
 msgid "Zilead?"
-msgstr ""
+msgstr "Zilead?"
 
 #: The_Heist/scenarios/heist-05town.cfg:273
 msgid "We did not steal the treasure!"
-msgstr ""
+msgstr "Non ruberai il tesoro!"
 
 #: The_Heist/scenarios/heist-05town.cfg:277
 msgid "Aye, the treasure was already gone before we could get our hands on it."
@@ -487,7 +503,7 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-05town.cfg:281
 msgid "Baltizar!"
-msgstr ""
+msgstr "Baltizar!"
 
 #: The_Heist/scenarios/heist-05town.cfg:285
 msgid "You scoundrels! You are all under arrest! Seize them!"
@@ -495,11 +511,11 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-05town.cfg:289
 msgid "I have a better idea. You can all go straight to hell!"
-msgstr ""
+msgstr "Ho un'idea migliore. Te ne puoi anadre direttamente all'inferno!"
 
 #: The_Heist/scenarios/heist-05town.cfg:371
 msgid "We need your help!"
-msgstr ""
+msgstr "Ci serve il tuo aiuto!"
 
 #: The_Heist/scenarios/heist-05town.cfg:387
 msgid ""
@@ -510,19 +526,19 @@ msgstr ""
 #: The_Heist/scenarios/heist-15breakout.cfg:516
 #: The_Heist/scenarios/heist-05town.cfg:402
 msgid "Damn!"
-msgstr ""
+msgstr "Merda!"
 
 #: The_Heist/scenarios/heist-05town.cfg:431
 msgid "If you kill me, you'll never see Gerald's treasure."
-msgstr ""
+msgstr "Se mi uccidi, non vedrai mai il tesoro di Gerald."
 
 #: The_Heist/scenarios/heist-05town.cfg:435
 msgid "Where is it?"
-msgstr ""
+msgstr "Dov'è?"
 
 #: The_Heist/scenarios/heist-05town.cfg:439
 msgid "I will show you the way."
-msgstr ""
+msgstr "Ti mostrerò la strada."
 
 #: The_Heist/scenarios/heist-05town.cfg:461
 msgid "I am wasting my time here. You fools can fight amongst yourselves."
@@ -530,44 +546,44 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-06hideout.cfg:5
 msgid "The Hideout"
-msgstr ""
+msgstr "Il nascondiglio"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:77
 msgid "Kill all orcs and free the parents"
-msgstr ""
+msgstr "Uccidi tutti gli Orchi e libera i genitori."
 
 #: The_Heist/scenarios/heist-06hideout.cfg:81
 msgid "Death of Ardella, Leana or Rogan"
-msgstr ""
+msgstr "MOrte di Ardelia, Leana o Rogan"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:85
 #: The_Heist/scenarios/heist-08family.cfg:64
 msgid "Death of a family member"
-msgstr ""
+msgstr "Morte di un membro della famiglia."
 
 #: The_Heist/scenarios/heist-06hideout.cfg:103
 msgid "Bastian"
-msgstr ""
+msgstr "Bastian"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:104
 msgid "Irving"
-msgstr ""
+msgstr "Irving"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:105
 msgid "Reuben"
-msgstr ""
+msgstr "Reuben"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:110
 msgid "Dad"
-msgstr ""
+msgstr "Mamma"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:111
 msgid "Mom"
-msgstr ""
+msgstr "Papà"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:113
 msgid "Ug"
-msgstr ""
+msgstr "Ug"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:149
 msgid ""
@@ -587,129 +603,141 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-06hideout.cfg:162
 msgid "Help us! Help us!"
-msgstr ""
+msgstr "Aiutateci! Aiutateci!"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:167
 msgid "Our mommy and daddy are in that cave! They were taken by orcs!"
 msgstr ""
+"La nostra mamma e il nostro papà sono in quella caverna! Sono stati rapiti "
+"dagli orchi!"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:172
 msgid "Please save them!"
-msgstr ""
+msgstr "Per favore salvateli!"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:176
 msgid ""
 "Oh, great! The tide is about to rise. If we help these children, we will not "
 "be able to leave before sunrise."
 msgstr ""
+"Ma bene! La marea sta salendo. Se aiutiamo questi bambini, non potremo "
+"andarcene prima dell'alba."
 
 #: The_Heist/scenarios/heist-06hideout.cfg:180
 msgid ""
 "Children, head south to King Gerald's castle! He will rescue your parents!"
 msgstr ""
+"Bambini, andate verso sud al castello di re Gerald! Egli salverà i vostri "
+"genitori!"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:185
 msgid "But they said they were going to eat them!"
-msgstr ""
+msgstr "Ma hanno detto che li avrebbero mangiati!"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:190
 msgid "Don't let them eat my mommy and daddy!"
-msgstr ""
+msgstr "Non lasciare che si mangino mamma e papà!"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:195
 msgid ""
 "Forget it! They won't help us! We don't need their help! Let's go men, we "
 "have orcs to kill!"
 msgstr ""
+"Lasciate perdere! Non ci aiuteranno! Non ci serve il loro aiuto! Andiamo "
+"uomini, abbiamo degli orchi da uccidere!"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:217
 msgid "You have saved us from those evil creatures. How can we repay you?"
-msgstr ""
+msgstr "Ci hai salvato da queste creature malvage. Come possiamo ringraziarti?"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:221
 msgid "Well, we need a place to stay for the night."
-msgstr ""
+msgstr "Be', abbiamo bisogno di un posto dove passare la notte."
 
 #: The_Heist/scenarios/heist-06hideout.cfg:225
 msgid "You'll always be welcome here, your highness."
-msgstr ""
+msgstr "Sarete sempre benvenuta qua, vostra altezza."
 
 #: The_Heist/scenarios/heist-15breakout.cfg:333
 #: The_Heist/scenarios/heist-06hideout.cfg:227
 #: The_Heist/scenarios/heist-07orc.cfg:52
 msgid "Allak"
-msgstr ""
+msgstr "Allak"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:228
 msgid "Kalog"
-msgstr ""
+msgstr "Kalog"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:231
 msgid ""
 "So, Princess Leana thinks she can kill our orcs and get away with it! We'll "
 "be back, princess. You will all suffer our wrath!"
 msgstr ""
+"Dunque, la principessa Leana pensa di poter uccidere i nostri orchi e "
+"andarsene così! Torneremo, principessa. Voi tutti patirete la nostra ira!"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:260
 msgid "Zeke"
-msgstr ""
+msgstr "Zeke"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:267
 msgid "Thank you, friend."
-msgstr ""
+msgstr "Grazie, amico."
 
 #: The_Heist/scenarios/heist-06hideout.cfg:277
 msgid "Anna"
-msgstr ""
+msgstr "Anna"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:284
 msgid "Where are my children?"
-msgstr ""
+msgstr "Dove sono i miei bambini?"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:288
 msgid "We're right here, mommy!"
-msgstr ""
+msgstr "Siamo qua, mamma!"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:343
 #: The_Heist/scenarios/heist-08family.cfg:353
 msgid "Mommy!"
-msgstr ""
+msgstr "Mamma!"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:358
 #: The_Heist/scenarios/heist-08family.cfg:354
 msgid "Daddy!"
-msgstr ""
+msgstr "Papà!"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:380
 msgid "No! Not my little |{DESC}|!"
-msgstr ""
+msgstr "No! Non il mio piccolo |{DESC}|!"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:386
 msgid "How could we let that poor child die?"
-msgstr ""
+msgstr "Come abbiamo potuto permettere che quel povero bambino morisse?"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:402
 #: The_Heist/scenarios/heist-07orc.cfg:53
 msgid "Kurtal"
-msgstr ""
+msgstr "Kurtal"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:403
 msgid "Heflin"
-msgstr ""
+msgstr "Heflin"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:406
 msgid ""
 "Heflin, go and tell King Gerald that we found the thieves. I will stay here "
 "to ensure that Princess Leana and Rogan do not escape."
 msgstr ""
+"Heflin, va' a dire al re Gerald che abbiamo trovato i ladri. Rimarrò qui per "
+"assicurarmi che la principessa Leana e Rogan non fuggano."
 
 #: The_Heist/scenarios/heist-07orc.cfg:5
 msgid "The Orc"
-msgstr ""
+msgstr "L'orco"
 
 #: The_Heist/scenarios/heist-07orc.cfg:65
 msgid "Why have you brought this hideous creature to my castle?"
-msgstr ""
+msgstr "Perché hai portato questa schifosa creatura nel mio castello?"
 
 #: The_Heist/scenarios/heist-07orc.cfg:69
 msgid ""
@@ -717,46 +745,54 @@ msgid ""
 "intended to slay them both, but this one said he had some information that "
 "would interest you."
 msgstr ""
+"Mio signore, abbiamo individuato due orchi mentre pattugliavamo nei dintorni "
+"della riva. Avevamo l'intenzione di ucciderli entrambi, ma questo ha detto "
+"di avere alcune informazioni che ti avrebbero interessato."
 
 #: The_Heist/scenarios/heist-07orc.cfg:73
 msgid "What kind of information? Speak, orc!"
-msgstr ""
+msgstr "Che tipo di informazioni? Parla, orco!"
 
 #: The_Heist/scenarios/heist-07orc.cfg:77
 msgid ""
 "If you promise to spare my life, I will tell you everything I know about "
 "your missing treasure."
 msgstr ""
+"Se prometti di risparmiare la mia vita, io ti dirò tutto quello che so sul "
+"tuo tesoro scomparso."
 
 #: The_Heist/scenarios/heist-07orc.cfg:81
 msgid "We make no deals with orcs here! Where is my treasure? Answer me!"
 msgstr ""
+"Noi non veniamo a patti con questi orchi! Dov'è il mio tesoro? Rispondimi!"
 
 #: The_Heist/scenarios/heist-07orc.cfg:85
 msgid "My liege, let us torture this orc. We will make him talk."
-msgstr ""
+msgstr "Mio signore, lasciami torturare questo orco. Lo faremo parlare."
 
 #: The_Heist/scenarios/heist-07orc.cfg:89
 msgid ""
 "Torture me if you must, but you'd better make me talk soon. The thieves will "
 "not be at their present location much longer."
 msgstr ""
+"Torturatemi se volete, ma faerste meglio a farmi parlare al più  presto. I "
+"ladri non rimarranno nello stesso posto ancora a lungo."
 
 #: The_Heist/scenarios/heist-08family.cfg:5
 msgid "The Family"
-msgstr ""
+msgstr "La famiglia"
 
 #: The_Heist/scenarios/heist-08family.cfg:60
 msgid "Survive until end of turns"
-msgstr ""
+msgstr "Sopravvivi fino alla fine dei turni"
 
 #: The_Heist/scenarios/heist-08family.cfg:122
 msgid "Zeke! Anna! Wake up!"
-msgstr ""
+msgstr "Zeke! Anna! Svegliatevi!"
 
 #: The_Heist/scenarios/heist-08family.cfg:129
 msgid "Who are you, stranger? And what brings you here at this time of night?"
-msgstr ""
+msgstr "Chi sei tu, straniero? E cosa ti porta qua a quest'ora di notte?"
 
 #: The_Heist/scenarios/heist-08family.cfg:133
 msgid ""
@@ -766,7 +802,7 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-08family.cfg:140
 msgid "What's going on?"
-msgstr ""
+msgstr "Cosa sta succedendo?"
 
 #: The_Heist/scenarios/heist-08family.cfg:144
 msgid ""
@@ -802,7 +838,7 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-08family.cfg:286
 msgid "Farold"
-msgstr ""
+msgstr "Farold"
 
 #: The_Heist/scenarios/heist-08family.cfg:291
 msgid ""
@@ -849,21 +885,21 @@ msgstr ""
 #: The_Heist/scenarios/heist-15breakout.cfg:519
 #: The_Heist/scenarios/heist-08family.cfg:355
 msgid "No! Not my little Bastian!"
-msgstr ""
+msgstr "No! Non il mio piccolo Bastian!"
 
 #: The_Heist/scenarios/heist-15breakout.cfg:520
 #: The_Heist/scenarios/heist-08family.cfg:356
 msgid "No! Not my little Irving!"
-msgstr ""
+msgstr "No! Non il mio piccolo Irving!"
 
 #: The_Heist/scenarios/heist-15breakout.cfg:521
 #: The_Heist/scenarios/heist-08family.cfg:357
 msgid "No! Not my little Reuben!"
-msgstr ""
+msgstr "No! Non il mio piccolo Reuben!"
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:5
 msgid "The Labyrinth"
-msgstr ""
+msgstr "Il labirinto"
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:248
 msgid "Move to the castle at the heart of the labyrinth."
@@ -879,16 +915,16 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:260
 msgid "Turns run out."
-msgstr ""
+msgstr "Fine dei turni a disposizione."
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:266
 msgid "Randalf"
-msgstr ""
+msgstr "Randalf"
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:451
 #: The_Heist/scenarios/heist-12guillotine.cfg:191
 msgid "Talika"
-msgstr ""
+msgstr "Talika"
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:457
 msgid "We've travelled a long way, Zilead. You'd better not be deceiving me."
@@ -904,7 +940,7 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:469
 msgid "You'll just have to trust me, Bill."
-msgstr ""
+msgstr "Devi solo aver fiducia in me, Bill."
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:504
 msgid "Why have you shown these lowlifes the way to my castle, Zilead?"
@@ -912,7 +948,7 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:508
 msgid "I am sorry, Randalf."
-msgstr ""
+msgstr "Sono spiacente, Randalf"
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:512
 msgid ""
@@ -968,39 +1004,39 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:626
 msgid "Did you hear that?"
-msgstr ""
+msgstr "Cosa hai sentito?"
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:630
 msgid "Hear what?"
-msgstr ""
+msgstr "Sentito cosa?"
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:634
 msgid "I thought I heard a voice in the distance."
-msgstr ""
+msgstr "Mi è sembrato di sentire una voce lontana."
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:638
 msgid "It's probably just the rustling of the wind."
-msgstr ""
+msgstr "Probabilmente hai solo sentito il mormorio del vento."
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:642
 msgid "Talika, my castle is surrounded. Turn them all into stone!"
-msgstr ""
+msgstr "Talika, il mio castello è circondato. Trasformali tutti in pietra!"
 
 #: The_Heist/scenarios/heist-10persuasion.cfg:5
 msgid "The Persuasion"
-msgstr ""
+msgstr "La persuasione"
 
 #: The_Heist/scenarios/heist-10persuasion.cfg:54
 #: The_Heist/scenarios/heist-12guillotine.cfg:331
 #: The_Heist/scenarios/heist-12guillotine.cfg:392
 msgid "Edina"
-msgstr ""
+msgstr "Edina"
 
 #: The_Heist/scenarios/heist-10persuasion.cfg:55
 #: The_Heist/scenarios/heist-13informant.cfg:109
 #: The_Heist/scenarios/heist-13informant.cfg:148
 msgid "Hadwin"
-msgstr ""
+msgstr "Hadwin"
 
 #: The_Heist/scenarios/heist-10persuasion.cfg:63
 msgid ""
@@ -1009,13 +1045,15 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-10persuasion.cfg:67
 msgid "Leana? What about her?"
-msgstr ""
+msgstr "Leana? Cosa ne è stato di lei?"
 
 #: The_Heist/scenarios/heist-10persuasion.cfg:71
 msgid ""
 "King Theomund, I regret to inform you that Princess Leana has been captured "
 "by King Gerald's men."
 msgstr ""
+"Re Theomund, mi spiace doverla informare che la principessa Leana è stata "
+"fatta prigioniera dagli uomini di re Gerald."
 
 #: The_Heist/scenarios/heist-10persuasion.cfg:75
 msgid ""
@@ -1059,20 +1097,20 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-11statues.cfg:5
 msgid "The Statues"
-msgstr ""
+msgstr "Le statue"
 
 #: The_Heist/scenarios/heist-11statues.cfg:591
 #: The_Heist/scenarios/heist-11statues.cfg:598
 msgid "Rodollio Fortossia!"
-msgstr ""
+msgstr "Rodollio Fortossia!"
 
 #: The_Heist/scenarios/heist-11statues.cfg:685
 msgid "Platu! Verata! Bichtu!"
-msgstr ""
+msgstr "Platu! Verata! Bichtu!"
 
 #: The_Heist/scenarios/heist-11statues.cfg:693
 msgid "Folgana! Padrona! Sempara!"
-msgstr ""
+msgstr "Folgana! Padrona! Sempara!"
 
 #: The_Heist/scenarios/heist-11statues.cfg:804
 msgid ""
@@ -1093,11 +1131,11 @@ msgstr ""
 #: The_Heist/scenarios/heist-11statues.cfg:817
 #: The_Heist/scenarios/heist-11statues.cfg:863
 msgid "Yes, master!"
-msgstr ""
+msgstr "Sì, padrone!"
 
 #: The_Heist/scenarios/heist-11statues.cfg:850
 msgid "I cannot believe I lost!"
-msgstr ""
+msgstr "Non posso credere di aver perso!"
 
 #: The_Heist/scenarios/heist-11statues.cfg:854
 msgid "Unstone the statues, Randalf."
@@ -1111,7 +1149,7 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-11statues.cfg:867
 msgid "What about Zilead?"
-msgstr ""
+msgstr "Cosa e' successo a Zilead?"
 
 #: The_Heist/scenarios/heist-11statues.cfg:871
 msgid ""
@@ -1121,20 +1159,20 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-11statues.cfg:1163
 msgid "Beat Ursula"
-msgstr ""
+msgstr "Sconfiggi Ursula."
 
 #: The_Heist/scenarios/heist-11statues.cfg:1167
 msgid "Ursula wins"
-msgstr ""
+msgstr "Ursula vince."
 
 #: The_Heist/scenarios/heist-11statues.cfg:1227
 #: The_Heist/scenarios/heist-11statues.cfg:1293
 msgid "Ursula"
-msgstr ""
+msgstr "Ursula"
 
 #: The_Heist/scenarios/heist-11statues.cfg:1230
 msgid "Welcome, master."
-msgstr ""
+msgstr "Benvenuto, padrone."
 
 #: The_Heist/scenarios/heist-11statues.cfg:1234
 msgid "Why have you summoned me, Randalf?"
@@ -1176,7 +1214,7 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-11statues.cfg:1262
 msgid "Positive."
-msgstr ""
+msgstr "Certo."
 
 #: The_Heist/scenarios/heist-11statues.cfg:1266
 msgid "Fine, I will put a spell on your statues if you bring me the stone."
@@ -1200,7 +1238,7 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-11statues.cfg:1282
 msgid "Fine."
-msgstr ""
+msgstr "Bene."
 
 #: The_Heist/scenarios/heist-11statues.cfg:1334
 msgid "It is still your turn, Randalf."
@@ -1214,35 +1252,35 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:5
 msgid "The Guillotine"
-msgstr ""
+msgstr "La ghigliottina"
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:63
 msgid "Free Zilead and survive until end of turns or"
-msgstr ""
+msgstr "Libera Zilead e sopravvivi fino al termine dei turni."
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:67
 msgid "Stone/kill all of Theomund's men"
-msgstr ""
+msgstr "Pietrifica o uccidi tutti gli uomini di Theomund."
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:71
 msgid "Zilead is still in guillotine at end of turns"
-msgstr ""
+msgstr "Zilead è ancora sulla ghigliottina al termine dei turni."
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:75
 msgid "Death of Randalf, Zilead, Bill, or Horomir"
-msgstr ""
+msgstr "Morte di Randalf, Zilead, Bill o Horomir."
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:80
 msgid "Zilead"
-msgstr ""
+msgstr "Zilead"
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:81
 msgid "Peregorn"
-msgstr ""
+msgstr "Peregorn"
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:92
 msgid "Arion"
-msgstr ""
+msgstr "Arion"
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:96
 msgid ""
@@ -1277,70 +1315,74 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:121
 msgid "Yes sir!"
-msgstr ""
+msgstr "Sissignore!"
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:126
 msgid "You're making a mistake, Horomir. We cannot defeat the wizard's army."
 msgstr ""
+"Abbiamo commesso un errore, Horomir. Non possiamo sconfiggere l'esercito del "
+"mago."
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:130
 msgid "Wizard?"
-msgstr ""
+msgstr "Mago?"
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:179
 msgid "Release Zilead at once!"
-msgstr ""
+msgstr "Lascia libero Zilead adesso!"
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:183
 msgid "Men, prepare yourselves for battle!"
-msgstr ""
+msgstr "Uomini, preparatevi per la battaglia!"
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:245
 msgid "Randalf!"
-msgstr ""
+msgstr "Randalf!"
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:259
 msgid "Damn."
-msgstr ""
+msgstr "Merda."
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:273
 msgid "It was foolish to kill King Theomund's only son."
-msgstr ""
+msgstr "È stato stupido uccidere l'unico figlio di re Theomund."
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:330
 #: The_Heist/scenarios/heist-12guillotine.cfg:391
 msgid "Theomund"
-msgstr ""
+msgstr "Theomund"
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:344
 #: The_Heist/scenarios/heist-12guillotine.cfg:395
 msgid "What is going on here?"
-msgstr ""
+msgstr "Cosa sta succedendo qua?"
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:348
 msgid "Randalf? I thought you were dead."
-msgstr ""
+msgstr "Randalf? Pensavo che fossi morto."
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:399
 msgid "Men, execute the prisoner at once!"
-msgstr ""
+msgstr "Uomini, giustiziate il prigioniero adesso!"
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:403
 msgid "Wait!"
-msgstr ""
+msgstr "Aspetta!"
 
 #: The_Heist/scenarios/heist-13informant.cfg:5
 msgid "The Informant"
-msgstr ""
+msgstr "L'informatoer"
 
 #: The_Heist/scenarios/heist-13informant.cfg:53
 #: The_Heist/scenarios/heist-13informant.cfg:105
 msgid "Elgareth"
-msgstr ""
+msgstr "Elgareth"
 
 #: The_Heist/scenarios/heist-13informant.cfg:86
 msgid "Princess Leana, I'd like to introduce you to a dear friend of mine."
 msgstr ""
+"Principessa Leana, sono orgoglioso di presentarvi uno dei miei più cari "
+"amici."
 
 #: The_Heist/scenarios/heist-13informant.cfg:90
 msgid "What are you up to, Gerald? Why is Elgareth here?"
@@ -1392,7 +1434,7 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-13informant.cfg:180
 msgid "I am sorry, Elgareth."
-msgstr ""
+msgstr "Sono spiacente, Elgareth."
 
 #: The_Heist/scenarios/heist-13informant.cfg:184
 msgid ""
@@ -1401,399 +1443,417 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-14siege1.cfg:5
 msgid "The Siege - Part I"
-msgstr ""
+msgstr "L'assedio - parte I"
 
 #: The_Heist/scenarios/heist-14siege1.cfg:75
 msgid "Move Zilead to Gerald's keep."
-msgstr ""
+msgstr "Sposta Zilead alla fortezza di Gerald."
 
 #: The_Heist/scenarios/heist-14siege1.cfg:79
 msgid "End of turns"
-msgstr ""
+msgstr "Fine dei turni."
 
 #: The_Heist/scenarios/heist-16siege2.cfg:223
 #: The_Heist/scenarios/heist-14siege1.cfg:83
 msgid "Death of a leader."
-msgstr ""
+msgstr "Morte di un comandante."
 
 #: The_Heist/scenarios/heist-14siege1.cfg:121
 msgid "Welcome, Randalf. I've been expecting you."
-msgstr ""
+msgstr "Ben arrivato, Randalf. Ti stavo aspettando."
 
 #: The_Heist/scenarios/heist-14siege1.cfg:125
 msgid "Elgareth?"
-msgstr ""
+msgstr "Elgareth?"
 
 #: The_Heist/scenarios/heist-14siege1.cfg:129
 msgid "Malah! Starkah! Destruah!"
-msgstr ""
+msgstr "Malah! Starkah! Destruah!"
 
 #: The_Heist/scenarios/heist-14siege1.cfg:133
 msgid "Who are you?"
-msgstr ""
+msgstr "Chi sei?"
 
 #: The_Heist/scenarios/heist-14siege1.cfg:137
 msgid ""
 "He will not answer. He is in a trance. He is channeling the power of "
 "Kahandari."
-msgstr ""
+msgstr "Non risponderà. È in trance. Sta incanalando l'energia di Kahandari."
 
 #: The_Heist/scenarios/heist-14siege1.cfg:141
 msgid "Where are Gerald's men?"
-msgstr ""
+msgstr "Dove sono gli uomini di Gerald?"
 
 #: The_Heist/scenarios/heist-14siege1.cfg:145
 msgid "Something doesn't feel right."
-msgstr ""
+msgstr "C'eè qualcosa che non mi sembra a posto."
 
 #: The_Heist/scenarios/heist-14siege1.cfg:149
 msgid ""
 "Edina, you and I are the only ones who can withstand the power of the stone. "
 "We must attack Elgareth to break his trance."
 msgstr ""
+"Edina, tu e io siamo gli unici che possano sostenere il potere della pietra. "
+"Dobbiamo attaccare Elgareth per rompere la sua concentrazione."
 
 #: The_Heist/scenarios/heist-14siege1.cfg:153
 msgid "Agreed."
-msgstr ""
+msgstr "D'accordo."
 
 #: The_Heist/scenarios/heist-14siege1.cfg:157
 msgid ""
 "Zilead, get inside the castle walls. You must free the prisoners before "
 "Gerald and his men return."
 msgstr ""
+"Zilead, va' all'interno delle mura del castello. Devi liberare i prigionieri "
+"prima che Gerald e i suoi uomini ritornino."
 
 #: The_Heist/scenarios/heist-14siege1.cfg:165
 msgid "All right, men. We have two castles to conquer. Move out!"
-msgstr ""
+msgstr "Bene, uomini. Abbiamo due castelli da conquistare. Muoviamoci!"
 
 #: The_Heist/scenarios/heist-14siege1.cfg:179
 msgid "Hurry, Zilead! I sense that Princess Leana is in grave peril."
-msgstr ""
+msgstr "Presto, Zilead! Sento che la principessa Leana è in grande pericolo."
 
 #: The_Heist/scenarios/heist-14siege1.cfg:246
 msgid "Gerald's army is approaching! We have failed!"
-msgstr ""
+msgstr "L'esercito di Gerald si avvicina! Abbiamo fallito!"
 
 #: The_Heist/scenarios/heist-15breakout.cfg:5
 msgid "The Breakout"
-msgstr ""
+msgstr "L'evasione"
 
 #: The_Heist/scenarios/heist-15breakout.cfg:95
 msgid "Rescue all prisoners"
-msgstr ""
+msgstr "Salva tutti i prigionieri."
 
 #: The_Heist/scenarios/heist-15breakout.cfg:99
 msgid "Death of a leader"
-msgstr ""
+msgstr "Morte di un comandante"
 
 #: The_Heist/scenarios/heist-15breakout.cfg:104
 msgid "Mother Bat"
-msgstr ""
+msgstr "Mamma pipistrello"
 
 #: The_Heist/scenarios/heist-15breakout.cfg:105
 msgid "Father Bat"
-msgstr ""
+msgstr "Papà pipistrello"
 
 #: The_Heist/scenarios/heist-15breakout.cfg:366
 msgid "We're here to rescue Princess Leana. Which cell is she in?"
-msgstr ""
+msgstr "Siamo qui per salvare la principessa Leana. In quale cella è?"
 
 #: The_Heist/scenarios/heist-15breakout.cfg:370
 msgid "I do not know, but I will help you find her."
-msgstr ""
+msgstr "Non lo so, ma ti aiuterò a trovarla."
 
 #: The_Heist/scenarios/heist-15breakout.cfg:374
 msgid "Please tell me, have you seen three children?"
-msgstr ""
+msgstr "Per favore dimmi, hai visto i miei tre bambini?"
 
 #: The_Heist/scenarios/heist-15breakout.cfg:379
 msgid "No."
-msgstr ""
+msgstr "No."
 
 #: The_Heist/scenarios/heist-15breakout.cfg:383
 msgid "Come on, Zeke! We must find them!"
-msgstr ""
+msgstr "Andiamo Zeke! Dobbiamo trovarli!"
 
 #: The_Heist/scenarios/heist-15breakout.cfg:397
 msgid ""
 "Thank goodness you've arrived! Please, slay me now! Sharing a cell with "
 "these brats has been the worst torture I've ever experienced!"
 msgstr ""
+"Grazie agli dei, siete arrivati! Per favore, uccidetemi ora! Dividere la "
+"cella con questi scalmanati è stata la peggiore tortura che ho mai provato!"
 
 #: The_Heist/scenarios/heist-15breakout.cfg:401
 msgid "Quiet, foul orc, or you will suffer the same fate as your friends!"
-msgstr ""
+msgstr "Taci, lurico orco, o patirai lo stesso destino dei tuoi amici!"
 
 #: The_Heist/scenarios/heist-15breakout.cfg:405
 msgid "Are you all right, children?"
-msgstr ""
+msgstr "State bene, bambini?"
 
 #: The_Heist/scenarios/heist-15breakout.cfg:409
 msgid "We're fine, mother!"
-msgstr ""
+msgstr "Stiamo bene, mamma!"
 
 #: The_Heist/scenarios/heist-15breakout.cfg:413
 msgid "Just a little nauseous from this foul smelling orc!"
 msgstr ""
+"Abbiamo solo un po' di nausea a causa di questo orco lurido e puzzolente."
 
 #: The_Heist/scenarios/heist-15breakout.cfg:427
 msgid "Leana, we've finally found you!"
-msgstr ""
+msgstr "Leana, finalmente ti abbiamo trovata!"
 
 #: The_Heist/scenarios/heist-15breakout.cfg:465
 msgid "Theomund!"
-msgstr ""
+msgstr "Theomund!"
 
 #: The_Heist/scenarios/heist-15breakout.cfg:466
 msgid "Father!"
-msgstr ""
+msgstr "Padre!"
 
 #: The_Heist/scenarios/heist-15breakout.cfg:467
 msgid "King Theomund is dead!"
-msgstr ""
+msgstr "Re Theomund è morto!"
 
 #: The_Heist/scenarios/heist-15breakout.cfg:479
 msgid "Edina!"
-msgstr ""
+msgstr "Edina!"
 
 #: The_Heist/scenarios/heist-15breakout.cfg:480
 msgid "Mother!"
-msgstr ""
+msgstr "Madre!"
 
 #: The_Heist/scenarios/heist-15breakout.cfg:481
 msgid "Queen Edina has been slain!"
-msgstr ""
+msgstr "La regina Edina è stata uccisa!"
 
 #: The_Heist/scenarios/heist-15breakout.cfg:493
 #: The_Heist/scenarios/heist-15breakout.cfg:494
 msgid "My son has been slain!"
-msgstr ""
+msgstr "Mio figlio è stato ucciso!"
 
 #: The_Heist/scenarios/heist-15breakout.cfg:495
 msgid "Horomir is dead!"
-msgstr ""
+msgstr "Horomir è morto!"
 
 #: The_Heist/scenarios/heist-15breakout.cfg:508
 msgid "I have failed!"
-msgstr ""
+msgstr "Ho fallito!"
 
 #: The_Heist/scenarios/heist-15breakout.cfg:515
 msgid "Ardella!"
-msgstr ""
+msgstr "Ardella!"
 
 #: The_Heist/scenarios/heist-15breakout.cfg:517
 msgid "Zeke!"
-msgstr ""
+msgstr "Zeke!"
 
 #: The_Heist/scenarios/heist-15breakout.cfg:518
 msgid "Anna!"
-msgstr ""
+msgstr "Anna!"
 
 #: The_Heist/scenarios/heist-17end.cfg:45
 #: The_Heist/scenarios/heist-16siege2.cfg:86
 #: The_Heist/scenarios/heist-15breakout.cfg:525
 msgid "Gerald"
-msgstr ""
+msgstr "Gerald"
 
 #: The_Heist/scenarios/heist-15breakout.cfg:531
 msgid ""
 "Fools! The wizard is dead and the castle is surrounded. Now, drop your arms!"
 msgstr ""
+"Sciocchi! Il mago è morto e il castello è circondato. Adesso deponente le "
+"armi!"
 
 #: The_Heist/scenarios/heist-16siege2.cfg:5
 msgid "The Siege - Part II"
-msgstr ""
+msgstr "L'assedio - parte II"
 
 #: The_Heist/scenarios/heist-16siege2.cfg:89
 msgid "I surrender! I surrender! Theomund, please have mercy on me! I beg you!"
 msgstr ""
+"Mi arrendo! Mi arrendo! Theomund, per favore, abbi pietà di me! Ti supplico!"
 
 #: The_Heist/scenarios/heist-16siege2.cfg:219
 msgid "Kill Gerald's men."
-msgstr ""
+msgstr "Uccidi gli uomini di Gerald."
 
 #: The_Heist/scenarios/heist-16siege2.cfg:227
 msgid "Death of a child."
-msgstr ""
+msgstr "Morte di un bambino."
 
 #: The_Heist/scenarios/heist-16siege2.cfg:322
 msgid "Gerald's men are approaching!"
-msgstr ""
+msgstr "Gli uomini di Gerald si avvicinano!"
 
 #: The_Heist/scenarios/heist-16siege2.cfg:326
 msgid "Let them come!"
-msgstr ""
+msgstr "Lasciateli venire!"
 
 #: The_Heist/scenarios/heist-16siege2.cfg:442
 msgid "Burton"
-msgstr ""
+msgstr "Burton"
 
 #: The_Heist/scenarios/heist-16siege2.cfg:445
 msgid "Bill! Have no fear, brother! We will save you!"
-msgstr ""
+msgstr "Bill! Non aver paura, fratello! Ti salveremo!"
 
 #: The_Heist/scenarios/heist-16siege2.cfg:449
 msgid ""
 "I am sorry, brother, but I do not wish to be saved. I must help my master "
 "defend the castle."
 msgstr ""
+"Mi spiace, fratello, ma io non voglio essere salvato. Devo aiutare il mio "
+"padrone a difendere il castello."
 
 #: The_Heist/scenarios/heist-16siege2.cfg:453
 msgid "Your master?"
-msgstr ""
+msgstr "Il tuo padrone?"
 
 #: The_Heist/scenarios/heist-16siege2.cfg:457
 msgid ""
 "Bill is under my spell. If you help us defeat Gerald's army, then I will "
 "release him to you."
 msgstr ""
+"Bill è sotto l'effetto del mio incantesimo. Se ci aiuterete a sconfiggere "
+"l'esercito di Gerald, allora io ve lo restituirò."
 
 #: The_Heist/scenarios/heist-16siege2.cfg:461
 msgid "You will release him now, wizard! Bill, we're coming to get you!"
-msgstr ""
+msgstr "Lo liberereai adesso, mago! Bill, stiamo arrivando a prenderti!"
 
 #: The_Heist/scenarios/heist-16siege2.cfg:472
 msgid "Ulgak"
-msgstr ""
+msgstr "Ulgak"
 
 #: The_Heist/scenarios/heist-16siege2.cfg:475
 msgid "It looks like you could use some assistance, Randalf."
-msgstr ""
+msgstr "Sembra che un po' di aiuto di farebbe comodo, Randalf."
 
 #: The_Heist/scenarios/heist-16siege2.cfg:479
 msgid "Yes, it appears I've underestimated the strength of Gerald's army."
-msgstr ""
+msgstr "Sì, credo di aver sottovalutato la forza dell'esercito di Gerald."
 
 #: The_Heist/scenarios/heist-16siege2.cfg:483
 msgid "There's only one stipulation. Master wants the stone."
-msgstr ""
+msgstr "C'è solo una condizione. Il padrone vuole la pietra."
 
 #: The_Heist/scenarios/heist-16siege2.cfg:487
 msgid "She can have it."
-msgstr ""
+msgstr "L'avrà."
 
 #: The_Heist/scenarios/heist-16siege2.cfg:501
 msgid "Kill him, Bill!"
-msgstr ""
+msgstr "Uccidilo, Bill!"
 
 #: The_Heist/scenarios/heist-16siege2.cfg:505
 msgid "Yes, master."
-msgstr ""
+msgstr "Si, padrone."
 
 #: The_Heist/scenarios/heist-16siege2.cfg:535
 msgid "We cannot win this battle. We must surrender."
-msgstr ""
+msgstr "Non possiamo vincere questa battaglia. Dobbiamo arrenderci."
 
 #: The_Heist/scenarios/heist-17end.cfg:5
 msgid "The End"
-msgstr ""
+msgstr "Epilogo"
 
 #: The_Heist/scenarios/heist-siege.cfg:365
 #: The_Heist/scenarios/heist-siege.cfg:371
 msgid " is dead!"
-msgstr ""
+msgstr " è morto!"
 
 #: The_Heist/scenarios/heist-siege.cfg:365
 msgid "What have I done?"
-msgstr ""
+msgstr "Cosa ho fatto?"
 
 #: The_Heist/scenarios/heist-siege.cfg:371
 msgid "You fool!"
-msgstr ""
+msgstr "Sciocco!"
 
 #: The_Heist/scenarios/heist-siege.cfg:387
 msgid ""
 " has been slain! I should have heeded my master's advice. I was foolish to "
 "think I could defeat two powerful armies."
 msgstr ""
+" è stato ucciso! Avrei dovuto seguire i consigli del mio padrone. Sono stato "
+"stupido a pensare di poter sconfiggere due potenti eserciti."
 
 #: The_Heist/scenarios/heist-siege.cfg:477
 msgid "Be gone, foul serpent! Vogela, Sparisican!"
-msgstr ""
+msgstr "Vattene, lurido serpente! Vogela, Spariscan!"
 
 #: The_Heist/scenarios/heist-siege.cfg:485
 msgid "King Theomund"
-msgstr ""
+msgstr "King Theomund"
 
 #: The_Heist/scenarios/heist-siege.cfg:486
 msgid "Queen Edina"
-msgstr ""
+msgstr "Queen Edina"
 
 #: The_Heist/scenarios/heist-siege.cfg:487
 msgid "Horomir"
-msgstr ""
+msgstr "Horomir"
 
 #: The_Heist/scenarios/heist-siege.cfg:488
 msgid "Princess Leana"
-msgstr ""
+msgstr "Princess Leana"
 
 #: The_Heist/scenarios/heist-siege.cfg:489
 msgid "I am sorry, Leana. Rogan"
-msgstr ""
+msgstr "Mi spiace, Leana. Rogan"
 
 #: The_Heist/scenarios/heist-siege.cfg:490
 msgid "My dearest friend"
-msgstr ""
+msgstr "Il mio più caro amico"
 
 #: The_Heist/scenarios/heist-siege.cfg:491
 msgid "I am sorry, Leana. Your friend"
-msgstr ""
+msgstr "Mi spiace, Leana. Il tuo amico"
 
 #: The_Heist/scenarios/heist-siege.cfg:492
 msgid "Those poor children have lost their mother. She"
-msgstr ""
+msgstr "Questi poveri bambini hanno perso la loro madre. Lei"
 
 #: The_Heist/scenarios/heist-siege.cfg:493
 msgid "Those poor children have lost their father. He"
-msgstr ""
+msgstr "Questi poveri bambini hanno perso il loro padre. Lui"
 
 #: The_Heist/scenarios/heist-siege.cfg:494
 #: The_Heist/scenarios/heist-siege.cfg:495
 #: The_Heist/scenarios/heist-siege.cfg:496
 msgid "An innocent child"
-msgstr ""
+msgstr "Un bimbo innocente"
 
 #: The_Heist/scenarios/heist-siege.cfg:505
 msgid "We cannot win this battle without Randalf's help."
-msgstr ""
+msgstr "NOn possiamo vincere questa battaglia senza l'aiuto di Randalf."
 
 #: The_Heist/scenarios/heist-siege.cfg:519
 msgid ""
 "My heart tells me that Bill had some part to play yet, for good or ill. He "
 "should not have died here today."
 msgstr ""
+"Il mio cuore mi dice che Bill aveva ancora un ruolo da recitare, per il bene "
+"o per il male. NOn sarebbe dovuto morire qua oggi."
 
 #: The_Heist/scenarios/heist-siege.cfg:555
 msgid "Grab the stone!"
-msgstr ""
+msgstr "Afferra la pietra!"
 
 #: The_Heist/scenarios/heist-siege.cfg:560
 msgid "I have it!"
-msgstr ""
+msgstr "L'ho presa!"
 
 #: The_Heist/scenarios/heist-siege.cfg:564
 msgid "Zara! Baringa! Echla!"
-msgstr ""
+msgstr "Zara! Baringa! Echla!"
 
 #: The_Heist/scenarios/heist-siege.cfg:586
 msgid "The power of Kahandari is finally mine! Arachahl, Kahara!"
-msgstr ""
+msgstr "Il potere di Kahandari è finalmente mio! Arachahl, Kahara!"
 
 #: The_Heist/units/Beheading_Knight.cfg:4
 msgid "Beheading Knight"
-msgstr ""
+msgstr "Cavaliere tagliateste"
 
 #: The_Heist/units/Beheading_Knight.cfg:20
 msgid "A Grand Knight with an orc's head on his lance."
-msgstr ""
+msgstr "Un gran cavaliere con testa di orco sulla lancia."
 
 #: The_Heist/units/Blonde_Kid.cfg:4
 msgid "Blonde Kid"
-msgstr ""
+msgstr "Ragazzo biondo"
 
 #: The_Heist/units/Blonde_Kid.cfg:18
 msgid "A kid with blonde hair."
-msgstr ""
+msgstr "Un ragazzo dai capelli biondi."
 
 #: The_Heist/units/Blood_Bat_Pup.cfg:4
 msgid "Blood Bat Pup"
@@ -1805,11 +1865,11 @@ msgstr ""
 
 #: The_Heist/units/Brunette_Kid.cfg:4
 msgid "Brunette Kid"
-msgstr ""
+msgstr "Ragazzo bruno"
 
 #: The_Heist/units/Brunette_Kid.cfg:18
 msgid "A kid with brown hair."
-msgstr ""
+msgstr "Un ragazzo dai capelli bruni."
 
 #: The_Heist/units/Crate.cfg:4
 msgid "Crate"
@@ -1817,19 +1877,19 @@ msgstr ""
 
 #: The_Heist/units/Crate.cfg:20
 msgid "A box."
-msgstr ""
+msgstr "Una scatola."
 
 #: The_Heist/units/Greater_Mage.cfg:4
 msgid "Greater Mage"
-msgstr ""
+msgstr "Mago maggiore"
 
 #: The_Heist/units/Greater_Mage.cfg:22 The_Heist/units/Greater_Mage.cfg:118
 msgid "A Great Mage with poison attack."
-msgstr ""
+msgstr "Mago maggiore con attacco avvelenato."
 
 #: The_Heist/units/Greater_Mage.cfg:100
 msgid "female^Great Mage"
-msgstr ""
+msgstr "female^Grande maga"
 
 #: The_Heist/units/Heist_Witch.cfg:4
 msgid "Heist Witch"
@@ -1837,31 +1897,31 @@ msgstr ""
 
 #: The_Heist/units/Heist_Witch.cfg:17
 msgid "A witch! Burn her!"
-msgstr ""
+msgstr "Una strega! Al rogo!"
 
 #: The_Heist/units/King_Guillotine.cfg:4
 msgid "Warrior King"
-msgstr ""
+msgstr "Re guerriero"
 
 #: The_Heist/units/King_Guillotine.cfg:20
 msgid "Warrior King in guillotine."
-msgstr ""
+msgstr "Re guerriero sulla ghigliottina."
 
 #: The_Heist/units/Movable_Rock.cfg:4
 msgid "Movable Rock"
-msgstr ""
+msgstr "Roccia mobile"
 
 #: The_Heist/units/Movable_Rock.cfg:32
 msgid "A movable rock."
-msgstr ""
+msgstr "Una roccia mobile."
 
 #: The_Heist/units/Orcish_Archer.cfg:4
 msgid "Cave Orcish Archer"
-msgstr ""
+msgstr "Orco arciere delle caverne"
 
 #: The_Heist/units/Orcish_Archer.cfg:18
 msgid "An Orcish Archer that can only move inside caves."
-msgstr ""
+msgstr "Un orco arciere che si può spostare dentro le caverne."
 
 #: The_Heist/units/Orcish_Grunt.cfg:4
 msgid "Cave Orcish Grunt"
@@ -1893,11 +1953,11 @@ msgstr ""
 
 #: The_Heist/units/Redheaded_Kid.cfg:4
 msgid "Redheaded Kid"
-msgstr ""
+msgstr "Ragazzo dai capelli rossi"
 
 #: The_Heist/units/Redheaded_Kid.cfg:18
 msgid "A kid with red hair."
-msgstr ""
+msgstr "Un ragazzo dai capelli rossi"
 
 #: The_Heist/units/Swordsman_Guard.cfg:4
 msgid "Swordsman Guard"
