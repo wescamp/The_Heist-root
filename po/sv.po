@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-13 13:51+0100\n"
-"PO-Revision-Date: 2006-04-22 17:06+0200\n"
+"PO-Revision-Date: 2006-06-25 18:11+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
 "Language-Team: Swedish\n"
@@ -366,7 +366,7 @@ msgstr "Verkligen, låt oss inte dröja kvar här längre."
 
 #: The_Heist/scenarios/heist-04tour.cfg:139
 msgid "My liege, where are the guards?"
-msgstr ""
+msgstr "Ers nåd, var är vakterna?"
 
 #: The_Heist/scenarios/heist-04tour.cfg:143
 msgid "Oh no!"
@@ -393,16 +393,20 @@ msgstr "Mannar, hitta min skatt och ge mig huvudena på de ansvariga!"
 msgid ""
 "My liege, my men and I will help. Xavier is the best tracker in Wesnoth."
 msgstr ""
+"Ers nåd, jag och mina mannar kommer hjälpa till. Xavier är den bästa "
+"spåraren i Wesnoth."
 
 #: The_Heist/scenarios/heist-04tour.cfg:205
 msgid ""
 "Aye, you've proven your allegiance to me on the battlefield. Now hurry, "
 "before the culprits get too far!"
 msgstr ""
+"Ja, du har visat din lojalitet för mig på slagfältet. Snabba på, innan "
+"gärningsmännen hinner fly!"
 
 #: The_Heist/scenarios/heist-05town.cfg:5
 msgid "The Collision"
-msgstr ""
+msgstr "Kollisionen"
 
 #: The_Heist/scenarios/heist-05town.cfg:63
 msgid "Kill everyone but Zilead"
@@ -410,23 +414,27 @@ msgstr "Döda alla utom Zilead"
 
 #: The_Heist/scenarios/heist-05town.cfg:67
 msgid "Death of Bill"
-msgstr ""
+msgstr "Bill dör"
 
 #: The_Heist/scenarios/heist-05town.cfg:71
 msgid "Death of Zilead"
-msgstr ""
+msgstr "Zilead dör"
 
 #: The_Heist/scenarios/heist-05town.cfg:176
 msgid ""
 "I don't think the thieves would be so foolish as to venture through such a "
 "populated area."
 msgstr ""
+"Jag tror inte att tjuvarna är så dumma att de färdas genom ett så befolkat "
+"område."
 
 #: The_Heist/scenarios/heist-05town.cfg:180
 msgid ""
 "This is the town nearest King Gerald's castle. We will question the "
 "residents to see if they've witnessed any suspicious activity."
 msgstr ""
+"Här är staden närmast kung Geralds slott. Vi frågar invånarna om de har sett "
+"någon misstänkt aktivitet."
 
 #: The_Heist/scenarios/heist-05town.cfg:184
 msgid ""
@@ -439,10 +447,11 @@ msgid ""
 "Because they would not want to spend the remainder of their lives in King "
 "Gerald's dungeon."
 msgstr ""
+"För att de inte vill tillbringa resten av sina liv i Kung Geralds kammare."
 
 #: The_Heist/scenarios/heist-05town.cfg:192
 msgid "Zilead, we should not enter that town!"
-msgstr ""
+msgstr "Zilead, vi borde inte gå in i staden!"
 
 #: The_Heist/scenarios/heist-05town.cfg:196
 msgid ""
@@ -457,7 +466,7 @@ msgstr ""
 #: The_Heist/scenarios/heist-05town.cfg:208
 #: The_Heist/scenarios/heist-14siege1.cfg:161
 msgid "As you wish."
-msgstr ""
+msgstr "Som ni önskar."
 
 #: The_Heist/scenarios/heist-05town.cfg:215
 msgid "Well, well, Zilead, we meet at last!"
@@ -465,7 +474,7 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-05town.cfg:219
 msgid "Wait..."
-msgstr ""
+msgstr "Vänta..."
 
 #: The_Heist/scenarios/heist-05town.cfg:223
 msgid "Come on out, men! Gerald's gold is ripe for the taking!"
@@ -477,15 +486,15 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-05town.cfg:240
 msgid "Bill, you don't understand..."
-msgstr ""
+msgstr "Bill, du förstår inte..."
 
 #: The_Heist/scenarios/heist-05town.cfg:244
 msgid "What's going on, Judas?"
-msgstr ""
+msgstr "Vad är det som händer, Judas?"
 
 #: The_Heist/scenarios/heist-05town.cfg:248
 msgid "I'm so sorry. Bill's an old friend..."
-msgstr ""
+msgstr "Jag är ledsen. Bill är en gammal vän..."
 
 #: The_Heist/scenarios/heist-05town.cfg:252
 msgid ""
@@ -495,13 +504,15 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-05town.cfg:256
 msgid "What did you call me?"
-msgstr ""
+msgstr "Vad kallade du mig?"
 
 #: The_Heist/scenarios/heist-05town.cfg:261
 msgid ""
 "Gentlemen, I'm afraid there's been some sort of misunderstanding. We are "
 "King Gerald's men. We do not..."
 msgstr ""
+"Mina herrar, jag är rädd att det har blivit ett litet missförstånd här. Vi "
+"är inte Kung Geralds mannar. Vi..."
 
 #: The_Heist/scenarios/heist-05town.cfg:265
 msgid ""
@@ -511,19 +522,19 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-05town.cfg:269
 msgid "Zilead?"
-msgstr ""
+msgstr "Zilead?"
 
 #: The_Heist/scenarios/heist-05town.cfg:273
 msgid "We did not steal the treasure!"
-msgstr ""
+msgstr "Vi stal inte skatten!"
 
 #: The_Heist/scenarios/heist-05town.cfg:277
 msgid "Aye, the treasure was already gone before we could get our hands on it."
-msgstr ""
+msgstr "Skatten var redan borta när vi fick tag på den."
 
 #: The_Heist/scenarios/heist-05town.cfg:281
 msgid "Baltizar!"
-msgstr ""
+msgstr "Baltizar!"
 
 #: The_Heist/scenarios/heist-05town.cfg:285
 msgid "You scoundrels! You are all under arrest! Seize them!"
@@ -531,11 +542,11 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-05town.cfg:289
 msgid "I have a better idea. You can all go straight to hell!"
-msgstr ""
+msgstr "Jag har en bättre idé. Ni kan dra åt skogen allihop!"
 
 #: The_Heist/scenarios/heist-05town.cfg:371
 msgid "We need your help!"
-msgstr ""
+msgstr "Vi behöver din hjälp!"
 
 #: The_Heist/scenarios/heist-05town.cfg:387
 msgid ""
@@ -546,7 +557,7 @@ msgstr ""
 #: The_Heist/scenarios/heist-15breakout.cfg:516
 #: The_Heist/scenarios/heist-05town.cfg:402
 msgid "Damn!"
-msgstr ""
+msgstr "Sablar!"
 
 #: The_Heist/scenarios/heist-05town.cfg:431
 msgid "If you kill me, you'll never see Gerald's treasure."
@@ -554,11 +565,11 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-05town.cfg:435
 msgid "Where is it?"
-msgstr ""
+msgstr "Var är den?"
 
 #: The_Heist/scenarios/heist-05town.cfg:439
 msgid "I will show you the way."
-msgstr ""
+msgstr "Jag visar vägen."
 
 #: The_Heist/scenarios/heist-05town.cfg:461
 msgid "I am wasting my time here. You fools can fight amongst yourselves."
@@ -570,46 +581,48 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-06hideout.cfg:77
 msgid "Kill all orcs and free the parents"
-msgstr ""
+msgstr "Döda alla orcher och rädda föräldrarna"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:81
 msgid "Death of Ardella, Leana or Rogan"
-msgstr ""
+msgstr "Ardella, Leana eller Rogan dör"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:85
 #: The_Heist/scenarios/heist-08family.cfg:64
 msgid "Death of a family member"
-msgstr ""
+msgstr "En familjemedlem dör"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:103
 msgid "Bastian"
-msgstr ""
+msgstr "Bastian"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:104
 msgid "Irving"
-msgstr ""
+msgstr "Irving"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:105
 msgid "Reuben"
-msgstr ""
+msgstr "Reuben"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:110
 msgid "Dad"
-msgstr ""
+msgstr "Pappa"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:111
 msgid "Mom"
-msgstr ""
+msgstr "Mamma"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:113
 msgid "Ug"
-msgstr ""
+msgstr "Ug"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:149
 msgid ""
 "I can't believe my eyes. Princess Leana about to board a galleon with one of "
 "King Gerald's guards. This is just too good."
 msgstr ""
+"Jag tror inte mina ögon. Prinsessan Leana på väg att borda en av Kung "
+"Geralds galjon full med vakter. Det här är bara för bra."
 
 #: The_Heist/scenarios/heist-06hideout.cfg:153
 msgid ""
@@ -899,7 +912,7 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:5
 msgid "The Labyrinth"
-msgstr ""
+msgstr "Labyrinten"
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:248
 msgid "Move to the castle at the heart of the labyrinth."
@@ -915,16 +928,16 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:260
 msgid "Turns run out."
-msgstr ""
+msgstr "Dragen tar slut"
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:266
 msgid "Randalf"
-msgstr ""
+msgstr "Randalf"
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:451
 #: The_Heist/scenarios/heist-12guillotine.cfg:191
 msgid "Talika"
-msgstr ""
+msgstr "Talika"
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:457
 msgid "We've travelled a long way, Zilead. You'd better not be deceiving me."
@@ -948,7 +961,7 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:508
 msgid "I am sorry, Randalf."
-msgstr ""
+msgstr "Jag är ledsen, Randalf."
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:512
 msgid ""
