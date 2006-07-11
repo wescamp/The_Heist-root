@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-13 13:51+0100\n"
-"PO-Revision-Date: 2006-06-18 10:40+0200\n"
+"PO-Revision-Date: 2006-07-11 14:20+0200\n"
 "Last-Translator: Automatically generated <highhole@famsik.de>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -298,8 +298,9 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-03heist.cfg:182
 #: The_Heist/scenarios/heist-06hideout.cfg:300
+#, fuzzy
 msgid "I have lost my dearest friend. I am sorry, Ardella."
-msgstr ""
+msgstr "Ich habe meinen leibsten Freunt verloren, Es tut mir leid, Ardella."
 
 #: The_Heist/scenarios/heist-03heist.cfg:197
 #: The_Heist/scenarios/heist-06hideout.cfg:314
@@ -614,6 +615,8 @@ msgstr "Helf' uns! Helf' uns!"
 #: The_Heist/scenarios/heist-06hideout.cfg:167
 msgid "Our mommy and daddy are in that cave! They were taken by orcs!"
 msgstr ""
+"Unsere Mutti und unser Vati sind in der Höhle.Die Orks haben sie mit "
+"genommen."
 
 #: The_Heist/scenarios/heist-06hideout.cfg:172
 msgid "Please save them!"
@@ -905,7 +908,7 @@ msgstr "Das Labyrint"
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:248
 msgid "Move to the castle at the heart of the labyrinth."
-msgstr ""
+msgstr "Bewege dich zur Burg im hertzen des Labyrints."
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:252
 msgid "One of Bill's men gets there first."
@@ -913,7 +916,7 @@ msgstr "EInen von Bills Männer ist zuerst da."
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:256
 msgid "Bill's men are near the castle when you get there."
-msgstr ""
+msgstr "Bills Männer sind nah an der Burg, wen du da hin gehst."
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:260
 msgid "Turns run out."
@@ -929,16 +932,19 @@ msgid "Talika"
 msgstr "Talika"
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:457
+#, fuzzy
 msgid "We've travelled a long way, Zilead. You'd better not be deceiving me."
 msgstr ""
+"Wir sind einen langen Weg gereist, Zilead. Es wär besser für sich wenn du "
+"nich über mich bestimmst."
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:461
 msgid "As I told you, the treasure lies at the heart of that labyrinth."
-msgstr ""
+msgstr "Wie ich dir erzählt habe, liegt der Schatz im Herzen des Labyrinth."
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:465
 msgid "But you did not tell me how it got there."
-msgstr ""
+msgstr "Aber du hast mir nicht erzählt wie ich da hinkomme."
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:469
 msgid "You'll just have to trust me, Bill."
@@ -1183,8 +1189,9 @@ msgid "Welcome, master."
 msgstr "Willkommen Meister."
 
 #: The_Heist/scenarios/heist-11statues.cfg:1234
+#, fuzzy
 msgid "Why have you summoned me, Randalf?"
-msgstr ""
+msgstr "Warum hast du mich herraufbeschwört, Randalf?"
 
 #: The_Heist/scenarios/heist-11statues.cfg:1238
 msgid ""
@@ -1236,8 +1243,9 @@ msgid ""
 msgstr ""
 
 #: The_Heist/scenarios/heist-11statues.cfg:1274
+#, fuzzy
 msgid "What do you have in mind, Randalf?"
-msgstr ""
+msgstr "Was hast du in deinen Gedanken, Randalf?"
 
 #: The_Heist/scenarios/heist-11statues.cfg:1278
 msgid ""
@@ -1266,11 +1274,11 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:63
 msgid "Free Zilead and survive until end of turns or"
-msgstr ""
+msgstr "Befreit Zilead und überlebt bis zum Ende der Züge oder"
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:67
 msgid "Stone/kill all of Theomund's men"
-msgstr ""
+msgstr "Versteinert/Tötet alle von theomunds Männern"
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:71
 msgid "Zilead is still in guillotine at end of turns"
@@ -1311,7 +1319,7 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:108
 msgid "He and my mother are still at the other castle. They will..."
-msgstr ""
+msgstr "Er und seine Mutter sind immernoch bei der anderen Burg. Sie werden..."
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:112
 msgid "Horomir, the army is coming to rescue Zilead. You must release him!"
@@ -1330,14 +1338,17 @@ msgstr "Ja, sir!"
 #: The_Heist/scenarios/heist-12guillotine.cfg:126
 msgid "You're making a mistake, Horomir. We cannot defeat the wizard's army."
 msgstr ""
+"Du begehst einen Fehler, Horomir. Wir können die Armee des Zauberers nicht "
+"besiegern."
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:130
 msgid "Wizard?"
 msgstr "Zauberer?"
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:179
+#, fuzzy
 msgid "Release Zilead at once!"
-msgstr ""
+msgstr "Lasst Zilead sofort frei!"
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:183
 msgid "Men, prepare yourselves for battle!"
@@ -1352,8 +1363,9 @@ msgid "Damn."
 msgstr "Scheiße!"
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:273
+#, fuzzy
 msgid "It was foolish to kill King Theomund's only son."
-msgstr ""
+msgstr "Es war narrhaft den einzigen Sohn von König Themund zu töten."
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:330
 #: The_Heist/scenarios/heist-12guillotine.cfg:391
@@ -1367,11 +1379,12 @@ msgstr "Was ist hier eigentlich los?"
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:348
 msgid "Randalf? I thought you were dead."
-msgstr ""
+msgstr "Randalf? Ich dachte du wärst tot."
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:399
+#, fuzzy
 msgid "Men, execute the prisoner at once!"
-msgstr ""
+msgstr "Männer, richtet die Gefangenen hin!"
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:403
 msgid "Wait!"
@@ -1443,9 +1456,12 @@ msgid "I am sorry, Elgareth."
 msgstr "Es tut mir leit, Elgareth."
 
 #: The_Heist/scenarios/heist-13informant.cfg:184
+#, fuzzy
 msgid ""
 "Bring me the stone and then go into hiding. I will deal with the wizard."
 msgstr ""
+"Bring mir den Stein und versteck dich dann! Ich werde mit dem Zauberer "
+"verhandeln."
 
 #: The_Heist/scenarios/heist-14siege1.cfg:5
 msgid "The Siege - Part I"
@@ -1651,9 +1667,12 @@ msgid "Gerald"
 msgstr "Gerald"
 
 #: The_Heist/scenarios/heist-15breakout.cfg:531
+#, fuzzy
 msgid ""
 "Fools! The wizard is dead and the castle is surrounded. Now, drop your arms!"
 msgstr ""
+"Narren! Der Zauberer ist tot und die Burg ist umgeben. Lasst eure Waffen "
+"jetzt fallen!"
 
 #: The_Heist/scenarios/heist-16siege2.cfg:5
 msgid "The Siege - Part II"
@@ -1705,8 +1724,11 @@ msgid ""
 msgstr ""
 
 #: The_Heist/scenarios/heist-16siege2.cfg:461
+#, fuzzy
 msgid "You will release him now, wizard! Bill, we're coming to get you!"
 msgstr ""
+"Du wirst ihn jetzt verlasen, Zauberer! Bill, wir werden kommen um dich zu "
+"hohlen!"
 
 #: The_Heist/scenarios/heist-16siege2.cfg:472
 msgid "Ulgak"
@@ -1793,16 +1815,17 @@ msgid "My dearest friend"
 msgstr "Mein liebster Freunt"
 
 #: The_Heist/scenarios/heist-siege.cfg:491
+#, fuzzy
 msgid "I am sorry, Leana. Your friend"
-msgstr ""
+msgstr "Es tut mir leit, Leana. Dein Freunt"
 
 #: The_Heist/scenarios/heist-siege.cfg:492
 msgid "Those poor children have lost their mother. She"
-msgstr ""
+msgstr "Diese armen Kinder haben ihre Mutter verloren. Sie"
 
 #: The_Heist/scenarios/heist-siege.cfg:493
 msgid "Those poor children have lost their father. He"
-msgstr ""
+msgstr "Diese armen Kinder haben ihren Vater verloren. Er"
 
 #: The_Heist/scenarios/heist-siege.cfg:494
 #: The_Heist/scenarios/heist-siege.cfg:495
@@ -1821,8 +1844,9 @@ msgid ""
 msgstr ""
 
 #: The_Heist/scenarios/heist-siege.cfg:555
+#, fuzzy
 msgid "Grab the stone!"
-msgstr ""
+msgstr "Hohl den Stein!"
 
 #: The_Heist/scenarios/heist-siege.cfg:560
 msgid "I have it!"
@@ -1837,8 +1861,9 @@ msgid "The power of Kahandari is finally mine! Arachahl, Kahara!"
 msgstr ""
 
 #: The_Heist/units/Beheading_Knight.cfg:4
+#, fuzzy
 msgid "Beheading Knight"
-msgstr ""
+msgstr "Beköpfter Ritter"
 
 #: The_Heist/units/Beheading_Knight.cfg:20
 #, fuzzy
@@ -1859,7 +1884,7 @@ msgstr ""
 
 #: The_Heist/units/Blood_Bat_Pup.cfg:18
 msgid "A smaller and weaker blood bat."
-msgstr ""
+msgstr "Eine kleinere und schwächere Blutfledermaus"
 
 #: The_Heist/units/Brunette_Kid.cfg:4
 msgid "Brunette Kid"
@@ -1883,11 +1908,12 @@ msgstr "Großer Magier"
 
 #: The_Heist/units/Greater_Mage.cfg:22 The_Heist/units/Greater_Mage.cfg:118
 msgid "A Great Mage with poison attack."
-msgstr ""
+msgstr "Ein großer Magier mit einer vergiftenden Attacke."
 
 #: The_Heist/units/Greater_Mage.cfg:100
+#, fuzzy
 msgid "female^Great Mage"
-msgstr ""
+msgstr "female^Große Magierin"
 
 #: The_Heist/units/Heist_Witch.cfg:4
 #, fuzzy
@@ -1899,8 +1925,9 @@ msgid "A witch! Burn her!"
 msgstr "Eine Hexe! Verbrennt sie!"
 
 #: The_Heist/units/King_Guillotine.cfg:4
+#, fuzzy
 msgid "Warrior King"
-msgstr ""
+msgstr "Kreigskönig"
 
 #: The_Heist/units/King_Guillotine.cfg:20
 msgid "Warrior King in guillotine."
@@ -1922,7 +1949,7 @@ msgstr "Höhlenorkbogenschütze"
 
 #: The_Heist/units/Orcish_Archer.cfg:18
 msgid "An Orcish Archer that can only move inside caves."
-msgstr ""
+msgstr "Ein Orkbogenschütze der sich nur in Höhlen bewegen kann."
 
 #: The_Heist/units/Orcish_Grunt.cfg:4
 #, fuzzy
@@ -1931,7 +1958,7 @@ msgstr "Höhlenorkgrunzer"
 
 #: The_Heist/units/Orcish_Grunt.cfg:17
 msgid "An Orcish Grunt that can only move inside caves."
-msgstr ""
+msgstr "Ein Orkgrunzer der sich nur in Höhlen bewegen kann."
 
 #: The_Heist/units/Outlaw_Guillotine.cfg:4
 msgid "Outlaw Guillotine"
