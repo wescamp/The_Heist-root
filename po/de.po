@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-13 13:51+0100\n"
-"PO-Revision-Date: 2006-07-11 14:20+0200\n"
+"PO-Revision-Date: 2006-07-27 13:16+0200\n"
 "Last-Translator: Automatically generated <highhole@famsik.de>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -212,8 +212,9 @@ msgid "Right you are, sir."
 msgstr "Du hast recht, Sir"
 
 #: The_Heist/scenarios/heist-02battle.cfg:203
+#, fuzzy
 msgid "I'll take a swig."
-msgstr ""
+msgstr "Ich werde eine Schaukel nehmen."
 
 #: The_Heist/scenarios/heist-02battle.cfg:336
 msgid ""
@@ -441,7 +442,7 @@ msgstr "Wie ihr wünscht."
 
 #: The_Heist/scenarios/heist-05town.cfg:215
 msgid "Well, well, Zilead, we meet at last!"
-msgstr ""
+msgstr "Gut, gut, Zilead, wir haben uns endlich getroffen."
 
 #: The_Heist/scenarios/heist-05town.cfg:219
 msgid "Wait..."
@@ -546,12 +547,15 @@ msgid "I will show you the way."
 msgstr "Ich werde dir den Weg zeigen."
 
 #: The_Heist/scenarios/heist-05town.cfg:461
+#, fuzzy
 msgid "I am wasting my time here. You fools can fight amongst yourselves."
 msgstr ""
+"Ich verschwende eine Zeit hier. Ihr Narren könnt euch ja gegenseitig "
+"bekämpfen."
 
 #: The_Heist/scenarios/heist-06hideout.cfg:5
 msgid "The Hideout"
-msgstr ""
+msgstr "Der Unterschlupf"
 
 #: The_Heist/scenarios/heist-06hideout.cfg:77
 msgid "Kill all orcs and free the parents"
@@ -1270,7 +1274,7 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:5
 msgid "The Guillotine"
-msgstr ""
+msgstr "Die Guillotine"
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:63
 msgid "Free Zilead and survive until end of turns or"
@@ -1737,6 +1741,7 @@ msgstr "Ulgak"
 #: The_Heist/scenarios/heist-16siege2.cfg:475
 msgid "It looks like you could use some assistance, Randalf."
 msgstr ""
+"Es sieht so aus als wenn du etwas Assistenz gebrauchen könntes, Randalf."
 
 #: The_Heist/scenarios/heist-16siege2.cfg:479
 msgid "Yes, it appears I've underestimated the strength of Gerald's army."
@@ -1831,7 +1836,7 @@ msgstr "Diese armen Kinder haben ihren Vater verloren. Er"
 #: The_Heist/scenarios/heist-siege.cfg:495
 #: The_Heist/scenarios/heist-siege.cfg:496
 msgid "An innocent child"
-msgstr ""
+msgstr "Ein unschuldiges Kind."
 
 #: The_Heist/scenarios/heist-siege.cfg:505
 msgid "We cannot win this battle without Randalf's help."
@@ -1858,7 +1863,7 @@ msgstr "Zara!·Baringa!·Echla!"
 
 #: The_Heist/scenarios/heist-siege.cfg:586
 msgid "The power of Kahandari is finally mine! Arachahl, Kahara!"
-msgstr ""
+msgstr "Die Kraft Kahandaris ist endlich mein!·Arachahl,·Kahara!"
 
 #: The_Heist/units/Beheading_Knight.cfg:4
 #, fuzzy
@@ -1880,15 +1885,16 @@ msgstr "Ein Kind mit Blonden Haaren."
 
 #: The_Heist/units/Blood_Bat_Pup.cfg:4
 msgid "Blood Bat Pup"
-msgstr ""
+msgstr "Blutfledermaus Jungtier"
 
 #: The_Heist/units/Blood_Bat_Pup.cfg:18
 msgid "A smaller and weaker blood bat."
 msgstr "Eine kleinere und schwächere Blutfledermaus"
 
 #: The_Heist/units/Brunette_Kid.cfg:4
+#, fuzzy
 msgid "Brunette Kid"
-msgstr ""
+msgstr "Brünett Kind"
 
 #: The_Heist/units/Brunette_Kid.cfg:18
 msgid "A kid with brown hair."
@@ -1896,7 +1902,7 @@ msgstr "Ein Kind mit raunen Haaren."
 
 #: The_Heist/units/Crate.cfg:4
 msgid "Crate"
-msgstr ""
+msgstr "Kiste"
 
 #: The_Heist/units/Crate.cfg:20
 msgid "A box."
@@ -1931,7 +1937,7 @@ msgstr "Kreigskönig"
 
 #: The_Heist/units/King_Guillotine.cfg:20
 msgid "Warrior King in guillotine."
-msgstr ""
+msgstr "Kriegskönig in einer Guillotine."
 
 #: The_Heist/units/Movable_Rock.cfg:4
 #, fuzzy
@@ -1962,15 +1968,15 @@ msgstr "Ein Orkgrunzer der sich nur in Höhlen bewegen kann."
 
 #: The_Heist/units/Outlaw_Guillotine.cfg:4
 msgid "Outlaw Guillotine"
-msgstr ""
+msgstr "Geächteten Guillotine"
 
 #: The_Heist/units/Outlaw_Guillotine.cfg:20
 msgid "Outlaw in guillotine."
-msgstr ""
+msgstr "Geächteter in einer Guillotine."
 
 #: The_Heist/units/Outlaw_Queen2.cfg:4
 msgid "female^Outlaw Queen2"
-msgstr ""
+msgstr "female^Banditenkönigin2"
 
 #: The_Heist/units/Outlaw_Queen2.cfg:22
 #, fuzzy
@@ -1979,7 +1985,7 @@ msgstr "Plänkler, Führingsquallität"
 
 #: The_Heist/units/Outlaw_Queen2.cfg:25
 msgid "An Outlaw Queen with a different hairdo."
-msgstr ""
+msgstr "EIn Bandit mit einer anderen Frisur."
 
 #: The_Heist/units/Redheaded_Kid.cfg:4
 #, fuzzy
