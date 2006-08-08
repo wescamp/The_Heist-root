@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-13 13:51+0100\n"
-"PO-Revision-Date: 2006-08-07 09:51+0200\n"
+"PO-Revision-Date: 2006-08-08 09:37+0200\n"
 "Last-Translator: Automatically generated <highhole@famsik.de>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -234,7 +234,7 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-02battle.cfg:434
 msgid "Theomund's men are retreating."
-msgstr ""
+msgstr "Theomunds Männer geben nach."
 
 #: The_Heist/scenarios/heist-02battle.cfg:438
 msgid "Well done, King Gerald."
@@ -332,6 +332,7 @@ msgstr "Die Tour"
 #: The_Heist/scenarios/heist-04tour.cfg:127
 msgid "And this is the dungeon where my enemies are left to rot."
 msgstr ""
+"Und das ist der Kerker wo meine Feinde zum verrotten hingebracht werden."
 
 #: The_Heist/scenarios/heist-04tour.cfg:131
 msgid "That explains the smell."
@@ -745,7 +746,7 @@ msgstr "Der Ork"
 
 #: The_Heist/scenarios/heist-07orc.cfg:65
 msgid "Why have you brought this hideous creature to my castle?"
-msgstr ""
+msgstr "Warum hast du diese abscheuliche Kreatur zu meiner Burg gebracht?"
 
 #: The_Heist/scenarios/heist-07orc.cfg:69
 msgid ""
@@ -839,6 +840,7 @@ msgstr ""
 #: The_Heist/scenarios/heist-08family.cfg:179
 msgid "Anna, take the children to the cave. I will deal with Gerald's men."
 msgstr ""
+"Anna, bring die Kinder in die Höhle. Ich werde mir Geralds Leuten verhandeln."
 
 #: The_Heist/scenarios/heist-08family.cfg:286
 msgid "Farold"
@@ -1035,11 +1037,11 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-09labyrinth.cfg:642
 msgid "Talika, my castle is surrounded. Turn them all into stone!"
-msgstr ""
+msgstr "Talika, meine Burg ist umzingelt. Verwandle sie allen zu Stein!"
 
 #: The_Heist/scenarios/heist-10persuasion.cfg:5
 msgid "The Persuasion"
-msgstr ""
+msgstr "Die Überzeugung"
 
 #: The_Heist/scenarios/heist-10persuasion.cfg:54
 #: The_Heist/scenarios/heist-12guillotine.cfg:331
@@ -1081,10 +1083,13 @@ msgid ""
 msgstr ""
 
 #: The_Heist/scenarios/heist-10persuasion.cfg:83
+#, fuzzy
 msgid ""
 "He is no stranger. Tell me, why does Gerald want me to launch another attack "
 "on his castle?"
 msgstr ""
+"Er ist kein Fremder. Sag mir, warum braucht mich Gerald um eine weitere "
+"Attacke auf seine Burg zu starten?"
 
 #: The_Heist/scenarios/heist-10persuasion.cfg:91
 msgid ""
@@ -1142,7 +1147,7 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-11statues.cfg:813
 msgid "You must all obey me now."
-msgstr ""
+msgstr "Ihr müsst mir jetzt alle gehorchen."
 
 #: The_Heist/scenarios/heist-11statues.cfg:817
 #: The_Heist/scenarios/heist-11statues.cfg:863
@@ -1288,6 +1293,7 @@ msgstr "Versteinert/Tötet alle von theomunds Männern"
 #: The_Heist/scenarios/heist-12guillotine.cfg:71
 msgid "Zilead is still in guillotine at end of turns"
 msgstr ""
+"Zilead befindet sich am Ende des letzten Zuges immernoch in der Guillotine"
 
 #: The_Heist/scenarios/heist-12guillotine.cfg:75
 msgid "Death of Randalf, Zilead, Bill, or Horomir"
@@ -1439,6 +1445,8 @@ msgid ""
 "A wizard named Randalf told him that Princess Leana is in your dungeon. He "
 "has..."
 msgstr ""
+"Ein Zauberer namens Randalf erzählte ihm, das Prinzessin Leana in deinem "
+"Kerker. Er hat..."
 
 #: The_Heist/scenarios/heist-13informant.cfg:168
 msgid ""
@@ -1447,8 +1455,9 @@ msgid ""
 msgstr ""
 
 #: The_Heist/scenarios/heist-13informant.cfg:172
+#, fuzzy
 msgid "He seeks a stone that he believes is in King Gerald's possession."
-msgstr ""
+msgstr "Er begehrt einen Stein den er in König Geralds Hab und Gut glaubt."
 
 #: The_Heist/scenarios/heist-13informant.cfg:176
 msgid ""
@@ -1535,7 +1544,7 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-14siege1.cfg:165
 msgid "All right, men. We have two castles to conquer. Move out!"
-msgstr ""
+msgstr "Alles klar, Männer. Wir haben zwei Burgen zu erobern. Rückt aus!"
 
 #: The_Heist/scenarios/heist-14siege1.cfg:179
 msgid "Hurry, Zilead! I sense that Princess Leana is in grave peril."
@@ -1543,7 +1552,7 @@ msgstr ""
 
 #: The_Heist/scenarios/heist-14siege1.cfg:246
 msgid "Gerald's army is approaching! We have failed!"
-msgstr ""
+msgstr "Geralds Arme steht uns vor der Tür! WIr haben versagt!"
 
 #: The_Heist/scenarios/heist-15breakout.cfg:5
 #, fuzzy
@@ -1686,6 +1695,8 @@ msgstr "Die Belagerung - Teil II"
 #: The_Heist/scenarios/heist-16siege2.cfg:89
 msgid "I surrender! I surrender! Theomund, please have mercy on me! I beg you!"
 msgstr ""
+"Ich gebe auf! Ich gebe auf! Theomund, bitte seit gnädig zu mir! Ich flehe "
+"euch an!"
 
 #: The_Heist/scenarios/heist-16siege2.cfg:219
 msgid "Kill Gerald's men."
